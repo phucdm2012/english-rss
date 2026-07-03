@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+<channel>
+
+<title>English Grade 8 - Grammar Practice 01</title>
+<description>To V / V-ing, Comparatives, Superlatives, Past Simple, Past Continuous</description>
+<link>https://yourusername.github.io/english-rss/grammar-grade8.xml</link>
+<language>vi</language>
+
+<!-- Question 1 -->
+
+<item>
+<title>Question 1 - To V or V-ing</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>She enjoys ______ books every evening.</eng:text>
+<eng:choices>read,reading,to read,reads</eng:choices>
+<eng:correctAnswer>reading</eng:correctAnswer>
+<eng:explanation>Enjoy luôn theo sau bởi V-ing.</eng:explanation>
+</item>
+
+<!-- Question 2 -->
+
+<item>
+<title>Question 2 - Fill in the blank</title>
+<description>Complete the sentence.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Type the correct form.</eng:instruction>
+<eng:text>They decided [gap] a new house.</eng:text>
+<eng:correctAnswer>to buy</eng:correctAnswer>
+<eng:explanation>Decide + to V.</eng:explanation>
+</item>
+
+<!-- Question 3 -->
+
+<item>
+<title>Question 3 - Comparative</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>This car is ______ than that one.</eng:text>
+<eng:choices>fast,faster,fastest,the fastest</eng:choices>
+<eng:correctAnswer>faster</eng:correctAnswer>
+<eng:explanation>So sánh hơn dùng adjective-er + than.</eng:explanation>
+</item>
+
+<!-- Question 4 -->
+
+<item>
+<title>Question 4 - Superlative</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>Lan is the ______ student in our class.</eng:text>
+<eng:choices>good,better,best,well</eng:choices>
+<eng:correctAnswer>best</eng:correctAnswer>
+<eng:explanation>Good → Better → Best.</eng:explanation>
+</item>
+
+<!-- Question 5 -->
+
+<item>
+<title>Question 5 - Past Simple</title>
+<description>Complete the sentence.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Type the verb.</eng:instruction>
+<eng:text>Yesterday, we [gap] football.</eng:text>
+<eng:correctAnswer>played</eng:correctAnswer>
+<eng:explanation>Yesterday là dấu hiệu của thì Quá khứ đơn.</eng:explanation>
+</item>
+
+<!-- Question 6 -->
+
+<item>
+<title>Question 6 - Past Continuous</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>I ______ TV when my father came home.</eng:text>
+<eng:choices>watched,was watching,watch,am watching</eng:choices>
+<eng:correctAnswer>was watching</eng:correctAnswer>
+<eng:explanation>Hành động đang diễn ra thì có hành động khác xen vào.</eng:explanation>
+</item>
+
+<!-- Question 7 -->
+
+<item>
+<title>Question 7 - Matching</title>
+<description>Match the grammar structures.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match correctly.</eng:instruction>
+<eng:pairs>
+enjoy|V-ing,
+decide|to V,
+finish|V-ing,
+hope|to V
+</eng:pairs>
+<eng:explanation>Một số động từ theo sau bởi V-ing hoặc To V.</eng:explanation>
+</item>
+
+<!-- Question 8 -->
+
+<item>
+<title>Question 8 - Sentence Reordering</title>
+<description>Arrange the words.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Reorder the sentence.</eng:instruction>
+<eng:text>playing / was / when / I / called / you / football</eng:text>
+<eng:correctAnswer>I was playing football when you called</eng:correctAnswer>
+<eng:explanation>Past Continuous + when + Past Simple.</eng:explanation>
+</item>
+
+<!-- Question 9 -->
+
+<item>
+<title>Question 9 - Error Identification</title>
+<description>Find the mistake.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Choose the incorrect part.</eng:instruction>
+<eng:text>She enjoys (A) to play (B) tennis every Sunday (C) with her friends (D).</eng:text>
+<eng:choices>enjoys (A),to play (B),every Sunday (C),with her friends (D)</eng:choices>
+<eng:correctAnswer>to play (B)</eng:correctAnswer>
+<eng:explanation>Enjoy phải đi với V-ing → playing.</eng:explanation>
+</item>
+
+<!-- Question 10 -->
+
+<item>
+<title>Question 10 - Superlative</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>Everest is the ______ mountain in the world.</eng:text>
+<eng:choices>high,higher,highest,the higher</eng:choices>
+<eng:correctAnswer>highest</eng:correctAnswer>
+<eng:explanation>So sánh nhất dùng the + adjective-est.</eng:explanation>
+</item>
+
+</channel>
+</rss>
