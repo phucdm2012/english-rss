@@ -137,5 +137,425 @@ hope|to V
 <eng:explanation>So sánh nhất dùng the + adjective-est.</eng:explanation>
 </item>
 
+<item>
+<title>Question 11</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>My parents ______ a new car next year.</eng:text>
+<eng:choices>buy,will buy,bought,are buying</eng:choices>
+<eng:correctAnswer>will buy</eng:correctAnswer>
+<eng:explanation>"Next year" là dấu hiệu của thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 12</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>They [gap] us after dinner.</eng:text>
+<eng:correctAnswer>will visit</eng:correctAnswer>
+<eng:explanation>Diễn tả một hành động sẽ xảy ra trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 13</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>I ______ my homework tonight.</eng:text>
+<eng:choices>do,did,will do,doing</eng:choices>
+<eng:correctAnswer>will do</eng:correctAnswer>
+<eng:explanation>"Tonight" kết hợp với kế hoạch trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 14</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>We (A) will (B) goes (C) camping next weekend (D).</eng:text>
+<eng:choices>We (A),will (B),goes (C),next weekend (D)</eng:choices>
+<eng:correctAnswer>goes (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" phải dùng động từ nguyên mẫu: go.</eng:explanation>
+</item>
+
+<item>
+<title>Question 15</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words into a correct sentence.</eng:instruction>
+<eng:text>will / tomorrow / they / arrive</eng:text>
+<eng:correctAnswer>they will arrive tomorrow</eng:correctAnswer>
+<eng:explanation>Cấu trúc: Subject + will + Verb + Time.</eng:explanation>
+</item>
+
+<item>
+<title>Question 16</title>
+<description>Matching.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match the sentence beginnings with the correct endings.</eng:instruction>
+<eng:pairs>I will|help you,She will|be a doctor,They will|win the match,We will|leave early</eng:pairs>
+<eng:explanation>Ghép chủ ngữ với cụm động từ phù hợp trong thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 17</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one answer.</eng:instruction>
+<eng:text>Don't worry! I ______ you carry those bags.</eng:text>
+<eng:choices>help,will help,helped,am helping</eng:choices>
+<eng:correctAnswer>will help</eng:correctAnswer>
+<eng:explanation>Đưa ra lời đề nghị hoặc quyết định ngay lúc nói dùng "will".</eng:explanation>
+</item>
+
+<item>
+<title>Question 18</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>It [gap] be sunny tomorrow.</eng:text>
+<eng:correctAnswer>will</eng:correctAnswer>
+<eng:explanation>Sau chủ ngữ "It" dùng "will" để diễn tả dự đoán.</eng:explanation>
+</item>
+
+<item>
+<title>Question 19</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>I'm sure our team ______ the competition.</eng:text>
+<eng:choices>win,will win,won,winning</eng:choices>
+<eng:correctAnswer>will win</eng:correctAnswer>
+<eng:explanation>"I'm sure" thường đi với dự đoán ở thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 20</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the incorrect part.</eng:instruction>
+<eng:text>He (A) will (B) studies (C) harder next term (D).</eng:text>
+<eng:choices>He (A),will (B),studies (C),next term (D)</eng:choices>
+<eng:correctAnswer>studies (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" phải dùng động từ nguyên mẫu: study.</eng:explanation>
+</item>
+
+<item>
+<title>Question 21</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>We ______ a picnic next Sunday.</eng:text>
+<eng:choices>have,will have,had,having</eng:choices>
+<eng:correctAnswer>will have</eng:correctAnswer>
+<eng:explanation>"Next Sunday" là dấu hiệu của thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 22</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>My sister [gap] a new laptop next month.</eng:text>
+<eng:correctAnswer>will buy</eng:correctAnswer>
+<eng:explanation>Next month → dùng thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 23</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one answer.</eng:instruction>
+<eng:text>I think they ______ the game.</eng:text>
+<eng:choices>win,will win,won,winning</eng:choices>
+<eng:correctAnswer>will win</eng:correctAnswer>
+<eng:explanation>I think diễn tả dự đoán.</eng:explanation>
+</item>
+
+<item>
+<title>Question 24</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>She (A) will (B) eats (C) dinner at 7 p.m. (D).</eng:text>
+<eng:choices>She (A),will (B),eats (C),at 7 p.m. (D)</eng:choices>
+<eng:correctAnswer>eats (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" dùng động từ nguyên mẫu: eat.</eng:explanation>
+</item>
+
+<item>
+<title>Question 25</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words.</eng:instruction>
+<eng:text>finish / will / homework / tonight / I / my</eng:text>
+<eng:correctAnswer>I will finish my homework tonight</eng:correctAnswer>
+<eng:explanation>Subject + will + Verb + Object + Time.</eng:explanation>
+</item>
+
+<item>
+<title>Question 26</title>
+<description>Matching.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match correctly.</eng:instruction>
+<eng:pairs>tomorrow morning|will exercise,next Friday|will travel,in two days|will return,next summer|will swim</eng:pairs>
+<eng:explanation>Ghép trạng ngữ thời gian với hành động tương lai phù hợp.</eng:explanation>
+</item>
+
+<item>
+<title>Question 27</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>______ your brother join us tomorrow?</eng:text>
+<eng:choices>Will,Does,Did,Is</eng:choices>
+<eng:correctAnswer>Will</eng:correctAnswer>
+<eng:explanation>Câu hỏi Future Simple bắt đầu bằng "Will".</eng:explanation>
+</item>
+
+<item>
+<title>Question 28</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>Perhaps we [gap] meet again someday.</eng:text>
+<eng:correctAnswer>will</eng:correctAnswer>
+<eng:explanation>Perhaps diễn tả khả năng trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 29</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>I promise I ______ late again.</eng:text>
+<eng:choices>am not,won't be,wasn't,don't</eng:choices>
+<eng:correctAnswer>won't be</eng:correctAnswer>
+<eng:explanation>Promise thường dùng với "will/won't".</eng:explanation>
+</item>
+
+<item>
+<title>Question 30</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the incorrect part.</eng:instruction>
+<eng:text>They (A) won't (B) goes (C) there tomorrow (D).</eng:text>
+<eng:choices>They (A),won't (B),goes (C),there tomorrow (D)</eng:choices>
+<eng:correctAnswer>goes (C)</eng:correctAnswer>
+<eng:explanation>Sau "won't" dùng động từ nguyên mẫu: go.</eng:explanation>
+</item>
+
+<item>
+<title>Question 31</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>I'm thirsty. I ______ some water.</eng:text>
+<eng:choices>drink,will drink,drank,am drinking</eng:choices>
+<eng:correctAnswer>will drink</eng:correctAnswer>
+<eng:explanation>Quyết định được đưa ra ngay tại thời điểm nói dùng "will".</eng:explanation>
+</item>
+
+<item>
+<title>Question 32</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>My parents [gap] home late tonight.</eng:text>
+<eng:correctAnswer>will arrive</eng:correctAnswer>
+<eng:explanation>"Tonight" diễn tả một thời điểm trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 33</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>It ______ cold this evening.</eng:text>
+<eng:choices>is,will be,was,being</eng:choices>
+<eng:correctAnswer>will be</eng:correctAnswer>
+<eng:explanation>Dự đoán về thời tiết trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 34</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>I (A) will (B) finishes (C) this work tomorrow (D).</eng:text>
+<eng:choices>I (A),will (B),finishes (C),tomorrow (D)</eng:choices>
+<eng:correctAnswer>finishes (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" phải dùng động từ nguyên mẫu: finish.</eng:explanation>
+</item>
+
+<item>
+<title>Question 35</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words.</eng:instruction>
+<eng:text>will / the meeting / begin / at 8 a.m.</eng:text>
+<eng:correctAnswer>the meeting will begin at 8 a.m.</eng:correctAnswer>
+<eng:explanation>Cấu trúc: Subject + will + Verb + Time.</eng:explanation>
+</item>
+
+<item>
+<title>Question 36</title>
+<description>Matching.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match correctly.</eng:instruction>
+<eng:pairs>next Monday|will start,tonight|will study,tomorrow afternoon|will play,next winter|will travel</eng:pairs>
+<eng:explanation>Ghép trạng ngữ thời gian với hành động tương lai phù hợp.</eng:explanation>
+</item>
+
+<item>
+<title>Question 37</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one answer.</eng:instruction>
+<eng:text>Don't worry! We ______ you.</eng:text>
+<eng:choices>help,will help,helped,are helping</eng:choices>
+<eng:correctAnswer>will help</eng:correctAnswer>
+<eng:explanation>"Will" dùng để đưa ra lời hứa hoặc đề nghị giúp đỡ.</eng:explanation>
+</item>
+
+<item>
+<title>Question 38</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>He [gap] his teacher after class.</eng:text>
+<eng:correctAnswer>will meet</eng:correctAnswer>
+<eng:explanation>Diễn tả hành động sẽ diễn ra trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 39</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>I believe she ______ the exam.</eng:text>
+<eng:choices>passes,will pass,passed,passing</eng:choices>
+<eng:correctAnswer>will pass</eng:correctAnswer>
+<eng:explanation>"I believe" thể hiện dự đoán nên dùng Future Simple.</eng:explanation>
+</item>
+
+<item>
+<title>Question 40</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the incorrect part.</eng:instruction>
+<eng:text>He (A) will not (B) buys (C) a new phone next month (D).</eng:text>
+<eng:choices>He (A),will not (B),buys (C),next month (D)</eng:choices>
+<eng:correctAnswer>buys (C)</eng:correctAnswer>
+<eng:explanation>Sau "will not" phải dùng động từ nguyên mẫu: buy.</eng:explanation>
+</item>
+
+<item>
+<title>Question 41</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the best answer.</eng:instruction>
+<eng:text>I'm sure you ______ the answer.</eng:text>
+<eng:choices>know,will know,knew,knowing</eng:choices>
+<eng:correctAnswer>will know</eng:correctAnswer>
+<eng:explanation>"I'm sure" diễn tả dự đoán về tương lai nên dùng "will".</eng:explanation>
+</item>
+
+<item>
+<title>Question 42</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>Our teacher [gap] us the results tomorrow.</eng:text>
+<eng:correctAnswer>will tell</eng:correctAnswer>
+<eng:explanation>"Tomorrow" là dấu hiệu của thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 43</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>______ they come to the party tonight?</eng:text>
+<eng:choices>Will,Do,Did,Are</eng:choices>
+<eng:correctAnswer>Will</eng:correctAnswer>
+<eng:explanation>Câu hỏi ở thì Tương lai đơn bắt đầu bằng "Will".</eng:explanation>
+</item>
+
+<item>
+<title>Question 44</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>She (A) will (B) writes (C) an email tonight (D).</eng:text>
+<eng:choices>She (A),will (B),writes (C),tonight (D)</eng:choices>
+<eng:correctAnswer>writes (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" phải dùng động từ nguyên mẫu: write.</eng:explanation>
+</item>
+
+<item>
+<title>Question 45</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words.</eng:instruction>
+<eng:text>will / they / the museum / visit / tomorrow</eng:text>
+<eng:correctAnswer>they will visit the museum tomorrow</eng:correctAnswer>
+<eng:explanation>Cấu trúc: Subject + will + Verb + Object + Time.</eng:explanation>
+</item>
+
+<item>
+<title>Question 46</title>
+<description>Matching.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match correctly.</eng:instruction>
+<eng:pairs>this evening|will watch TV,next weekend|will go camping,tomorrow morning|will have breakfast,next year|will study abroad</eng:pairs>
+<eng:explanation>Ghép trạng ngữ thời gian với hành động phù hợp trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 47</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one answer.</eng:instruction>
+<eng:text>I think our team ______ the championship.</eng:text>
+<eng:choices>wins,will win,won,winning</eng:choices>
+<eng:correctAnswer>will win</eng:correctAnswer>
+<eng:explanation>"I think" thường đi với dự đoán trong thì Tương lai đơn.</eng:explanation>
+</item>
+
+<item>
+<title>Question 48</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>She [gap] you as soon as she arrives home.</eng:text>
+<eng:correctAnswer>will call</eng:correctAnswer>
+<eng:explanation>Hành động sẽ xảy ra trong tương lai.</eng:explanation>
+</item>
+
+<item>
+<title>Question 49</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>Which sentence is correct?</eng:text>
+<eng:choices>I will goes home.,She will study tonight.,They will playing football.,He will to visit his uncle.</eng:choices>
+<eng:correctAnswer>She will study tonight.</eng:correctAnswer>
+<eng:explanation>Sau "will" dùng động từ nguyên mẫu không thêm "to" hoặc "-ing".</eng:explanation>
+</item>
+
+<item>
+<title>Question 50</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the incorrect part.</eng:instruction>
+<eng:text>We (A) will (B) watching (C) a movie tomorrow night (D).</eng:text>
+<eng:choices>We (A),will (B),watching (C),tomorrow night (D)</eng:choices>
+<eng:correctAnswer>watching (C)</eng:correctAnswer>
+<eng:explanation>Sau "will" phải dùng động từ nguyên mẫu: watch.</eng:explanation>
+</item>
+
 </channel>
 </rss>
