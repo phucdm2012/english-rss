@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+<channel>
+
+<title>Past Continuous Practice - 20 Questions</title>
+<description>20 bài tập luyện thì Quá khứ tiếp diễn (Past Continuous).</description>
+<link>https://yourusername.github.io/english-rss/past-continuous-01.xml</link>
+<language>vi</language>
+
+<item>
+<title>Question 1</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the correct verb.</eng:instruction>
+<eng:text>I ______ TV when my mother came home.</eng:text>
+<eng:choices>watched,was watching,watch,am watching</eng:choices>
+<eng:correctAnswer>was watching</eng:correctAnswer>
+<eng:explanation>Hành động đang diễn ra thì có hành động khác xen vào.</eng:explanation>
+</item>
+
+<item>
+<title>Question 2</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>They [gap] football at 5 p.m. yesterday.</eng:text>
+<eng:correctAnswer>were playing</eng:correctAnswer>
+<eng:explanation>They → were + V-ing.</eng:explanation>
+</item>
+
+<item>
+<title>Question 3</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one.</eng:instruction>
+<eng:text>She ______ dinner when I called her.</eng:text>
+<eng:choices>cooked,was cooking,cooks,is cooking</eng:choices>
+<eng:correctAnswer>was cooking</eng:correctAnswer>
+<eng:explanation>Past Continuous + when + Past Simple.</eng:explanation>
+</item>
+
+<item>
+<title>Question 4</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Type the correct verb.</eng:instruction>
+<eng:text>We [gap] English at 8 o'clock yesterday morning.</eng:text>
+<eng:correctAnswer>were studying</eng:correctAnswer>
+<eng:explanation>We → were studying.</eng:explanation>
+</item>
+
+<item>
+<title>Question 5</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one answer.</eng:instruction>
+<eng:text>While Tom ______, his sister was reading.</eng:text>
+<eng:choices>slept,was sleeping,sleeps,is sleeping</eng:choices>
+<eng:correctAnswer>was sleeping</eng:correctAnswer>
+<eng:explanation>Hai hành động đang diễn ra đồng thời.</eng:explanation>
+</item>
+
+<item>
+<title>Question 6</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>My father [gap] the car when it started to rain.</eng:text>
+<eng:correctAnswer>was washing</eng:correctAnswer>
+<eng:explanation>Was washing diễn tả hành động đang diễn ra.</eng:explanation>
+</item>
+
+<item>
+<title>Question 7</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Select one.</eng:instruction>
+<eng:text>The children ______ in the park at that time.</eng:text>
+<eng:choices>played,were playing,play,are playing</eng:choices>
+<eng:correctAnswer>were playing</eng:correctAnswer>
+<eng:explanation>At that time → Past Continuous.</eng:explanation>
+</item>
+
+<item>
+<title>Question 8</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>Lan [gap] a letter when her friend arrived.</eng:text>
+<eng:correctAnswer>was writing</eng:correctAnswer>
+<eng:explanation>Was writing + arrived.</eng:explanation>
+</item>
+
+<item>
+<title>Question 9</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one.</eng:instruction>
+<eng:text>They ______ dinner at 7 p.m. yesterday.</eng:text>
+<eng:choices>had,were having,have,are having</eng:choices>
+<eng:correctAnswer>were having</eng:correctAnswer>
+<eng:explanation>Mốc thời gian xác định trong quá khứ.</eng:explanation>
+</item>
+
+<item>
+<title>Question 10</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Type the answer.</eng:instruction>
+<eng:text>I [gap] a book while my brother was watching TV.</eng:text>
+<eng:correctAnswer>was reading</eng:correctAnswer>
+<eng:explanation>Hai hành động diễn ra cùng lúc.</eng:explanation>
+</item>
+
+<item>
+<title>Question 11</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>She (A) were (B) cooking (C) dinner (D).</eng:text>
+<eng:choices>She (A),were (B),cooking (C),dinner (D)</eng:choices>
+<eng:correctAnswer>were (B)</eng:correctAnswer>
+<eng:explanation>She phải đi với was.</eng:explanation>
+</item>
+
+<item>
+<title>Question 12</title>
+<description>Error Identification.</description>
+<eng:type>error-id</eng:type>
+<eng:instruction>Find the mistake.</eng:instruction>
+<eng:text>They (A) was (B) playing (C) soccer yesterday (D).</eng:text>
+<eng:choices>They (A),was (B),playing (C),yesterday (D)</eng:choices>
+<eng:correctAnswer>was (B)</eng:correctAnswer>
+<eng:explanation>They phải đi với were.</eng:explanation>
+</item>
+
+<item>
+<title>Question 13</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words.</eng:instruction>
+<eng:text>was / homework / doing / Mary / her</eng:text>
+<eng:correctAnswer>Mary was doing her homework</eng:correctAnswer>
+<eng:explanation>Cấu trúc: Subject + was/were + V-ing.</eng:explanation>
+</item>
+
+<item>
+<title>Question 14</title>
+<description>Sentence Reordering.</description>
+<eng:type>reorder</eng:type>
+<eng:instruction>Arrange the words.</eng:instruction>
+<eng:text>were / the / singing / children</eng:text>
+<eng:correctAnswer>the children were singing</eng:correctAnswer>
+<eng:explanation>Children là số nhiều → were.</eng:explanation>
+</item>
+
+<item>
+<title>Question 15</title>
+<description>Matching.</description>
+<eng:type>matching</eng:type>
+<eng:instruction>Match correctly.</eng:instruction>
+<eng:pairs>I|was reading,He|was sleeping,They|were playing,We|were studying</eng:pairs>
+<eng:explanation>Ghép chủ ngữ với dạng đúng của Past Continuous.</eng:explanation>
+</item>
+
+<item>
+<title>Question 16</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one.</eng:instruction>
+<eng:text>At 10 p.m. last night, my parents ______.</eng:text>
+<eng:choices>slept,were sleeping,sleep,are sleeping</eng:choices>
+<eng:correctAnswer>were sleeping</eng:correctAnswer>
+<eng:explanation>At 10 p.m. last night → Past Continuous.</eng:explanation>
+</item>
+
+<item>
+<title>Question 17</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>The dog [gap] under the tree.</eng:text>
+<eng:correctAnswer>was sleeping</eng:correctAnswer>
+<eng:explanation>Dog là số ít → was sleeping.</eng:explanation>
+</item>
+
+<item>
+<title>Question 18</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose one.</eng:instruction>
+<eng:text>While we ______ dinner, the lights went out.</eng:text>
+<eng:choices>had,were having,have,are having</eng:choices>
+<eng:correctAnswer>were having</eng:correctAnswer>
+<eng:explanation>While + Past Continuous.</eng:explanation>
+</item>
+
+<item>
+<title>Question 19</title>
+<description>Fill in the blank.</description>
+<eng:type>fill-blank</eng:type>
+<eng:instruction>Complete the sentence.</eng:instruction>
+<eng:text>She [gap] to music when I arrived.</eng:text>
+<eng:correctAnswer>was listening</eng:correctAnswer>
+<eng:explanation>Was listening + arrived.</eng:explanation>
+</item>
+
+<item>
+<title>Question 20</title>
+<description>Choose the correct answer.</description>
+<eng:type>multiple-choice</eng:type>
+<eng:instruction>Choose the correct answer.</eng:instruction>
+<eng:text>What ______ you doing at 9 o'clock yesterday?</eng:text>
+<eng:choices>is,are,was,were</eng:choices>
+<eng:correctAnswer>were</eng:correctAnswer>
+<eng:explanation>You đi với were trong thì Quá khứ tiếp diễn.</eng:explanation>
+</item>
+
+</channel>
+</rss>
