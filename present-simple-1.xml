@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+  <channel>
+    <title>Bài tập thì Hiện tại đơn (10 câu)</title>
+    <description>Bộ bài tập luyện tập thì Hiện tại đơn với nhiều dạng câu hỏi.</description>
+    <link>http://example.com</link>
+    <language>vi</language>
+
+    <item>
+      <title>Câu 1: Chia động từ</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án chính xác.</eng:instruction>
+      <eng:text>My father ______ to work by bus every day.</eng:text>
+      <eng:choices>go, goes, going, is going</eng:choices>
+      <eng:correctAnswer>goes</eng:correctAnswer>
+      <eng:explanation>Chủ ngữ ngôi thứ ba số ít (My father) nên động từ thêm "es".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 2: Điền vào chỗ trống</title>
+      <description>Điền động từ thích hợp.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ đúng.</eng:instruction>
+      <eng:text>She [gap] English every evening.</eng:text>
+      <eng:correctAnswer>studies</eng:correctAnswer>
+      <eng:explanation>She là ngôi thứ ba số ít nên "study" đổi thành "studies".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 3: Sắp xếp câu</title>
+      <description>Sắp xếp thành câu hoàn chỉnh.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp đúng thứ tự.</eng:instruction>
+      <eng:text>plays / football / Tom / every Sunday</eng:text>
+      <eng:correctAnswer>Tom plays football every Sunday</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: Subject + Verb + Object + Time.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 4: Tìm lỗi sai</title>
+      <description>Chọn phần sai.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi sai.</eng:instruction>
+      <eng:text>She (A) go (B) to school (C) every day (D).</eng:text>
+      <eng:choices>She (A), go (B), to school (C), every day (D)</eng:choices>
+      <eng:correctAnswer>go (B)</eng:correctAnswer>
+      <eng:explanation>She là ngôi thứ ba số ít nên phải dùng "goes".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 5: Ghép nghĩa</title>
+      <description>Ghép động từ với nghĩa.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép từ với nghĩa.</eng:instruction>
+      <eng:pairs>read|đọc,write|viết,eat|ăn,drink|uống</eng:pairs>
+      <eng:explanation>Đây là các động từ thông dụng trong thì hiện tại đơn.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 6: Chia động từ</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+      <eng:text>They ______ TV after dinner.</eng:text>
+      <eng:choices>watch, watches, watched, are watching</eng:choices>
+      <eng:correctAnswer>watch</eng:correctAnswer>
+      <eng:explanation>They là chủ ngữ số nhiều nên dùng động từ nguyên mẫu.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 7: Điền vào chỗ trống</title>
+      <description>Điền động từ đúng.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ thích hợp.</eng:instruction>
+      <eng:text>My mother [gap] breakfast at 6 a.m.</eng:text>
+      <eng:correctAnswer>cooks</eng:correctAnswer>
+      <eng:explanation>My mother là ngôi thứ ba số ít nên thêm "s".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 8: Sắp xếp câu</title>
+      <description>Sắp xếp thành câu đúng.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp các từ.</eng:instruction>
+      <eng:text>school / walk / we / to / every morning</eng:text>
+      <eng:correctAnswer>We walk to school every morning</eng:correctAnswer>
+      <eng:explanation>Cấu trúc câu khẳng định của thì hiện tại đơn.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 9: Tìm lỗi sai</title>
+      <description>Tìm lỗi ngữ pháp.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Chọn phần sai.</eng:instruction>
+      <eng:text>He (A) don't (B) like (C) coffee (D).</eng:text>
+      <eng:choices>He (A), don't (B), like (C), coffee (D)</eng:choices>
+      <eng:correctAnswer>don't (B)</eng:correctAnswer>
+      <eng:explanation>He đi với "doesn't", không dùng "don't".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 10: Chia động từ</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+      <eng:text>The sun ______ in the east.</eng:text>
+      <eng:choices>rise, rises, rising, is rising</eng:choices>
+      <eng:correctAnswer>rises</eng:correctAnswer>
+      <eng:explanation>Đây là sự thật hiển nhiên nên dùng thì hiện tại đơn. Chủ ngữ số ít nên dùng "rises".</eng:explanation>
+    </item>
+
+  <item>
+    <title>Câu 11: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại đơn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác.</eng:instruction>
+    <eng:text>My sister ______ her homework after school every day.</eng:text>
+    <eng:choices>do, does, is doing, did</eng:choices>
+    <eng:correctAnswer>does</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "My sister" là ngôi thứ ba số ít nên dùng "does".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 12: Điền vào chỗ trống</title>
+    <description>Điền động từ thích hợp.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ đúng.</eng:instruction>
+    <eng:text>They [gap] basketball every Saturday.</eng:text>
+    <eng:correctAnswer>play</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "They" dùng động từ nguyên mẫu trong thì Hiện tại đơn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 13: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp các từ theo đúng thứ tự.</eng:instruction>
+    <eng:text>always / gets / she / up / early</eng:text>
+    <eng:correctAnswer>She always gets up early</eng:correctAnswer>
+    <eng:explanation>Trạng từ tần suất đứng trước động từ thường.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 14: Tìm lỗi sai</title>
+    <description>Xác định phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần chứa lỗi.</eng:instruction>
+    <eng:text>My brother (A) watch (B) TV (C) every evening (D).</eng:text>
+    <eng:choices>My brother (A), watch (B), TV (C), every evening (D)</eng:choices>
+    <eng:correctAnswer>watch (B)</eng:correctAnswer>
+    <eng:explanation>My brother là ngôi thứ ba số ít nên phải dùng "watches".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 15: Ghép nghĩa</title>
+    <description>Ghép động từ với nghĩa tiếng Việt.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng các cặp.</eng:instruction>
+    <eng:pairs>teach|dạy,learn|học,sing|hát,dance|nhảy múa</eng:pairs>
+    <eng:explanation>Các động từ này thường dùng để diễn tả thói quen trong thì Hiện tại đơn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 16: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+    <eng:text>Lan ______ milk every morning.</eng:text>
+    <eng:choices>drink, drinks, drinking, drank</eng:choices>
+    <eng:correctAnswer>drinks</eng:correctAnswer>
+    <eng:explanation>Lan là ngôi thứ ba số ít nên động từ thêm "s".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 17: Điền vào chỗ trống</title>
+    <description>Điền động từ thích hợp.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ đúng.</eng:instruction>
+    <eng:text>I [gap] my grandparents every weekend.</eng:text>
+    <eng:correctAnswer>visit</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "I" dùng động từ nguyên mẫu.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 18: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp đúng thứ tự.</eng:instruction>
+    <eng:text>the piano / every day / practices / Nam</eng:text>
+    <eng:correctAnswer>Nam practices the piano every day</eng:correctAnswer>
+    <eng:explanation>Cấu trúc: Subject + Verb + Object + Time.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 19: Tìm lỗi sai</title>
+    <description>Xác định lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai.</eng:instruction>
+    <eng:text>They (A) goes (B) to school (C) by bike (D).</eng:text>
+    <eng:choices>They (A), goes (B), to school (C), by bike (D)</eng:choices>
+    <eng:correctAnswer>goes (B)</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "They" dùng động từ nguyên mẫu "go".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 20: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác.</eng:instruction>
+    <eng:text>Water ______ at 100°C.</eng:text>
+    <eng:choices>boil, boils, boiling, is boiling</eng:choices>
+    <eng:correctAnswer>boils</eng:correctAnswer>
+    <eng:explanation>Đây là một sự thật khoa học nên dùng thì Hiện tại đơn. Chủ ngữ "Water" là danh từ không đếm được nên dùng "boils".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 21: Điền vào chỗ trống</title>
+    <description>Điền động từ thích hợp ở thì Hiện tại đơn.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ vào chỗ trống.</eng:instruction>
+    <eng:text>Peter [gap] his teeth before going to bed every night.</eng:text>
+    <eng:correctAnswer>brushes</eng:correctAnswer>
+    <eng:explanation>Peter là chủ ngữ ngôi thứ ba số ít nên động từ "brush" thêm "es" thành "brushes". "Every night" là dấu hiệu của thì Hiện tại đơn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 22: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại đơn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>How often ______ your parents ______ to the supermarket?</eng:text>
+    <eng:choices>do / go, does / go, do / goes, does / goes</eng:choices>
+    <eng:correctAnswer>do / go</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "your parents" là số nhiều nên dùng trợ động từ "do" và động từ chính ở dạng nguyên mẫu "go".</eng:explanation>
+  </item>
+
+  </channel>
+</rss>
