@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+  <channel>
+    <title>Bài tập thì Hiện tại tiếp diễn</title>
+    <description>Bộ bài tập luyện tập thì Hiện tại tiếp diễn gồm nhiều dạng câu hỏi như trắc nghiệm, điền vào chỗ trống, sắp xếp câu, tìm lỗi sai và nối từ.</description>
+    <link>http://example.com</link>
+    <language>vi</language>
+  
+  <item>
+    <title>Câu 1: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác.</eng:instruction>
+    <eng:text>Look! The baby ______.</eng:text>
+    <eng:choices>cry, cries, is crying, cried</eng:choices>
+    <eng:correctAnswer>is crying</eng:correctAnswer>
+    <eng:explanation>"Look!" là dấu hiệu nhận biết thì Hiện tại tiếp diễn. Chủ ngữ số ít nên dùng "is crying".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 2: Điền vào chỗ trống</title>
+    <description>Điền động từ thích hợp.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>They [gap] football in the playground now.</eng:text>
+    <eng:correctAnswer>are playing</eng:correctAnswer>
+    <eng:explanation>"Now" là dấu hiệu của thì Hiện tại tiếp diễn. Chủ ngữ "They" dùng "are playing".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 3: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp các từ theo đúng thứ tự.</eng:instruction>
+    <eng:text>is / reading / Mary / a book / now</eng:text>
+    <eng:correctAnswer>Mary is reading a book now</eng:correctAnswer>
+    <eng:explanation>Cấu trúc: Subject + be + V-ing + Object + Time.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 4: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi sai trong câu.</eng:instruction>
+    <eng:text>He (A) are (B) doing (C) his homework (D).</eng:text>
+    <eng:choices>He (A), are (B), doing (C), his homework (D)</eng:choices>
+    <eng:correctAnswer>are (B)</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "He" phải đi với "is", không dùng "are".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 5: Ghép nghĩa</title>
+    <description>Ghép động từ với nghĩa tiếng Việt.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng các cặp.</eng:instruction>
+    <eng:pairs>running|đang chạy,swimming|đang bơi,writing|đang viết,cooking|đang nấu ăn</eng:pairs>
+    <eng:explanation>Đây là các động từ ở dạng V-ing thường gặp trong thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 6: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác.</eng:instruction>
+    <eng:text>Listen! Someone ______ the piano.</eng:text>
+    <eng:choices>plays, play, is playing, played</eng:choices>
+    <eng:correctAnswer>is playing</eng:correctAnswer>
+    <eng:explanation>"Listen!" cho biết hành động đang diễn ra nên dùng thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 7: Điền vào chỗ trống</title>
+    <description>Điền động từ thích hợp.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>She [gap] dinner at the moment.</eng:text>
+    <eng:correctAnswer>is cooking</eng:correctAnswer>
+    <eng:explanation>"At the moment" là dấu hiệu của thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 8: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp các từ.</eng:instruction>
+    <eng:text>watching / are / TV / we / now</eng:text>
+    <eng:correctAnswer>We are watching TV now</eng:correctAnswer>
+    <eng:explanation>Cấu trúc: Subject + be + V-ing + Object + Time.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 9: Tìm lỗi sai</title>
+    <description>Tìm lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai.</eng:instruction>
+    <eng:text>They (A) is (B) playing (C) basketball (D).</eng:text>
+    <eng:choices>They (A), is (B), playing (C), basketball (D)</eng:choices>
+    <eng:correctAnswer>is (B)</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "They" phải dùng "are".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 10: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+    <eng:text>The students ______ an English lesson right now.</eng:text>
+    <eng:choices>have, has, are having, had</eng:choices>
+    <eng:correctAnswer>are having</eng:correctAnswer>
+    <eng:explanation>"Right now" là dấu hiệu nhận biết thì Hiện tại tiếp diễn. Chủ ngữ số nhiều nên dùng "are having".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 11: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>Be quiet! The students ______ their final examination.</eng:text>
+    <eng:choices>take, are taking, takes, took</eng:choices>
+    <eng:correctAnswer>are taking</eng:correctAnswer>
+    <eng:explanation>Hành động đang diễn ra tại thời điểm nói. Dấu hiệu: "Be quiet!".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 12: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>The scientists [gap] (conduct) an important experiment at the moment.</eng:text>
+    <eng:correctAnswer>are conducting</eng:correctAnswer>
+    <eng:explanation>"At the moment" là dấu hiệu của thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 13: Sắp xếp câu</title>
+    <description>Sắp xếp các từ thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp theo đúng trật tự.</eng:instruction>
+    <eng:text>working / engineers / on / the new bridge / are / the</eng:text>
+    <eng:correctAnswer>The engineers are working on the new bridge</eng:correctAnswer>
+    <eng:explanation>Cấu trúc: Subject + be + V-ing + Object.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 14: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp.</eng:instruction>
+    <eng:text>She (A) is (B) study (C) for her English test (D).</eng:text>
+    <eng:choices>She (A), is (B), study (C), for her English test (D)</eng:choices>
+    <eng:correctAnswer>study (C)</eng:correctAnswer>
+    <eng:explanation>Sau động từ "be" phải dùng động từ thêm "-ing": "studying".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 15: Ghép nghĩa</title>
+    <description>Ghép động từ V-ing với nghĩa.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng các cặp.</eng:instruction>
+    <eng:pairs>discussing|đang thảo luận,repairing|đang sửa chữa,preparing|đang chuẩn bị,designing|đang thiết kế</eng:pairs>
+    <eng:explanation>Đây là các động từ thường gặp khi diễn tả hành động đang diễn ra.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 16: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+    <eng:text>Why ______ your brother ______ so loudly?</eng:text>
+    <eng:choices>does / shout, is / shouting, do / shout, are / shouting</eng:choices>
+    <eng:correctAnswer>is / shouting</eng:correctAnswer>
+    <eng:explanation>Câu hỏi về hành động đang xảy ra dùng cấu trúc "is + V-ing".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 17: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>More and more people [gap] (use) electric cars nowadays.</eng:text>
+    <eng:correctAnswer>are using</eng:correctAnswer>
+    <eng:explanation>"Nowadays" có thể dùng với thì Hiện tại tiếp diễn để diễn tả xu hướng đang thay đổi.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 18: Sắp xếp câu</title>
+    <description>Sắp xếp các từ thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp theo đúng trật tự.</eng:instruction>
+    <eng:text>improving / is / rapidly / the weather</eng:text>
+    <eng:correctAnswer>The weather is improving rapidly</eng:correctAnswer>
+    <eng:explanation>Động từ "improve" diễn tả sự thay đổi đang diễn ra.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 19: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp.</eng:instruction>
+    <eng:text>They (A) are (B) build (C) a new hospital (D).</eng:text>
+    <eng:choices>They (A), are (B), build (C), a new hospital (D)</eng:choices>
+    <eng:correctAnswer>build (C)</eng:correctAnswer>
+    <eng:explanation>Sau "are" phải dùng dạng V-ing: "building".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 20: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>This semester, I ______ an online course in artificial intelligence.</eng:text>
+    <eng:choices>take, am taking, takes, took</eng:choices>
+    <eng:correctAnswer>am taking</eng:correctAnswer>
+    <eng:explanation>Hiện tại tiếp diễn được dùng để diễn tả hoạt động tạm thời đang diễn ra trong khoảng thời gian hiện tại, như "this semester".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 21: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>Researchers ______ a new vaccine, so the laboratory is closed to visitors today.</eng:text>
+    <eng:choices>develop, develops, are developing, developed</eng:choices>
+    <eng:correctAnswer>are developing</eng:correctAnswer>
+    <eng:explanation>Diễn tả hoạt động đang diễn ra trong giai đoạn hiện tại, không nhất thiết đúng ngay lúc nói.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 22: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>The company [gap] (expand) its business into Southeast Asia this year.</eng:text>
+    <eng:correctAnswer>is expanding</eng:correctAnswer>
+    <eng:explanation>Hiện tại tiếp diễn dùng để diễn tả kế hoạch hoặc quá trình đang diễn ra trong khoảng thời gian hiện tại.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 23: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp các từ theo đúng thứ tự.</eng:instruction>
+    <eng:text>is / the conference / preparing / the committee / for</eng:text>
+    <eng:correctAnswer>The committee is preparing for the conference</eng:correctAnswer>
+    <eng:explanation>Cấu trúc: Subject + be + V-ing + Complement.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 24: Tìm lỗi sai</title>
+    <description>Xác định lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai.</eng:instruction>
+    <eng:text>The engineers (A) are (B) design (C) a modern bridge (D).</eng:text>
+    <eng:choices>The engineers (A), are (B), design (C), a modern bridge (D)</eng:choices>
+    <eng:correctAnswer>design (C)</eng:correctAnswer>
+    <eng:explanation>Sau động từ "be" phải dùng động từ thêm "-ing": "designing".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 25: Ghép nghĩa</title>
+    <description>Ghép động từ V-ing với nghĩa tiếng Việt.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng các cặp.</eng:instruction>
+    <eng:pairs>negotiating|đang đàm phán,investigating|đang điều tra,manufacturing|đang sản xuất,communicating|đang giao tiếp</eng:pairs>
+    <eng:explanation>Các động từ này thường dùng trong ngữ cảnh học thuật và công việc.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 26: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+    <eng:text>These days, many students ______ online instead of attending traditional classes.</eng:text>
+    <eng:choices>study, studies, are studying, studied</eng:choices>
+    <eng:correctAnswer>are studying</eng:correctAnswer>
+    <eng:explanation>"These days" diễn tả xu hướng hiện tại nên dùng thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 27: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>The climate [gap] (change) more rapidly than scientists expected.</eng:text>
+    <eng:correctAnswer>is changing</eng:correctAnswer>
+    <eng:explanation>Hiện tại tiếp diễn được dùng để diễn tả sự thay đổi đang diễn ra.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 28: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp các từ.</eng:instruction>
+    <eng:text>improving / continuously / is / her English / she</eng:text>
+    <eng:correctAnswer>She is continuously improving her English</eng:correctAnswer>
+    <eng:explanation>Trạng từ có thể đứng trước động từ V-ing để nhấn mạnh sự liên tục.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 29: Tìm lỗi sai</title>
+    <description>Xác định phần sai.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai.</eng:instruction>
+    <eng:text>My friends (A) is (B) organizing (C) a charity event (D).</eng:text>
+    <eng:choices>My friends (A), is (B), organizing (C), a charity event (D)</eng:choices>
+    <eng:correctAnswer>is (B)</eng:correctAnswer>
+    <eng:explanation>Chủ ngữ "My friends" là số nhiều nên dùng "are".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 30: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>Don't disturb her. She ______ a presentation for tomorrow's meeting.</eng:text>
+    <eng:choices>prepares, is preparing, prepared, prepare</eng:choices>
+    <eng:correctAnswer>is preparing</eng:correctAnswer>
+    <eng:explanation>Hành động đang diễn ra tại thời điểm nói và có tính tạm thời nên dùng thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 31: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>Due to the increasing demand, the factory ______ an additional production line this month.</eng:text>
+    <eng:choices>installs, is installing, installed, has installed</eng:choices>
+    <eng:correctAnswer>is installing</eng:correctAnswer>
+    <eng:explanation>"This month" diễn tả một quá trình tạm thời đang diễn ra trong hiện tại nên dùng thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 32: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>The university [gap] (introduce) several new courses this academic year.</eng:text>
+    <eng:correctAnswer>is introducing</eng:correctAnswer>
+    <eng:explanation>"This academic year" diễn tả sự thay đổi đang diễn ra trong giai đoạn hiện tại.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 33: Sắp xếp câu</title>
+    <description>Sắp xếp các từ thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp theo đúng trật tự.</eng:instruction>
+    <eng:text>is / the government / investing / renewable energy / heavily in</eng:text>
+    <eng:correctAnswer>The government is investing heavily in renewable energy</eng:correctAnswer>
+    <eng:explanation>Trạng từ "heavily" đứng trước cụm giới từ "in renewable energy".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 34: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp.</eng:instruction>
+    <eng:text>The company (A) is (B) expand (C) its international market (D).</eng:text>
+    <eng:choices>The company (A), is (B), expand (C), its international market (D)</eng:choices>
+    <eng:correctAnswer>expand (C)</eng:correctAnswer>
+    <eng:explanation>Sau "is" phải dùng động từ thêm "-ing": "expanding".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 35: Ghép nghĩa</title>
+    <description>Ghép động từ V-ing với nghĩa tiếng Việt.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng các cặp.</eng:instruction>
+    <eng:pairs>analyzing|đang phân tích,implementing|đang triển khai,monitoring|đang giám sát,collaborating|đang hợp tác</eng:pairs>
+    <eng:explanation>Đây là các động từ phổ biến trong ngữ cảnh học thuật và công việc.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 36: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng.</eng:instruction>
+    <eng:text>More companies ______ artificial intelligence to improve customer service.</eng:text>
+    <eng:choices>adopt, are adopting, adopted, have adopted</eng:choices>
+    <eng:correctAnswer>are adopting</eng:correctAnswer>
+    <eng:explanation>Diễn tả xu hướng đang phát triển trong hiện tại.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 37: Điền vào chỗ trống</title>
+    <description>Chia động từ trong ngoặc.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền dạng đúng của động từ.</eng:instruction>
+    <eng:text>The population of this city [gap] (grow) rapidly because many people are moving here.</eng:text>
+    <eng:correctAnswer>is growing</eng:correctAnswer>
+    <eng:explanation>Dùng thì Hiện tại tiếp diễn để diễn tả sự thay đổi đang xảy ra.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 38: Sắp xếp câu</title>
+    <description>Sắp xếp các từ thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp đúng thứ tự.</eng:instruction>
+    <eng:text>developing / scientists / are / more effective treatments</eng:text>
+    <eng:correctAnswer>Scientists are developing more effective treatments</eng:correctAnswer>
+    <eng:explanation>Cấu trúc chuẩn: Subject + be + V-ing + Object.</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 39: Tìm lỗi sai</title>
+    <description>Xác định lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai.</eng:instruction>
+    <eng:text>My classmates (A) are (B) prepareing (C) for the science competition (D).</eng:text>
+    <eng:choices>My classmates (A), are (B), prepareing (C), for the science competition (D)</eng:choices>
+    <eng:correctAnswer>prepareing (C)</eng:correctAnswer>
+    <eng:explanation>Động từ "prepare" bỏ chữ "e" trước khi thêm "-ing": "preparing".</eng:explanation>
+  </item>
+  
+  <item>
+    <title>Câu 40: Chọn đáp án đúng</title>
+    <description>Hoàn thành câu với thì Hiện tại tiếp diễn.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất.</eng:instruction>
+    <eng:text>At present, many countries ______ new policies to reduce carbon emissions.</eng:text>
+    <eng:choices>introduce, are introducing, introduced, have introduced</eng:choices>
+    <eng:correctAnswer>are introducing</eng:correctAnswer>
+    <eng:explanation>"At present" kết hợp với một quá trình đang diễn ra trong hiện tại nên dùng thì Hiện tại tiếp diễn.</eng:explanation>
+  </item>
+
+  </channel>
+</rss>
