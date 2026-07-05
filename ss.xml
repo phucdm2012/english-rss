@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+  <channel>
+    <title>10 Bài Tập Nâng Cao - So Sánh Bằng, So Sánh Hơn, So Sánh Nhất</title>
+    <description>Bộ bài tập nâng cao giúp luyện tập các cấu trúc so sánh bằng, so sánh hơn và so sánh nhất trong tiếng Anh.</description>
+    <link>https://example.com/comparisons</link>
+    <language>vi</language>
+
+    <item>
+      <title>Câu 1: So sánh hơn với trạng từ</title>
+      <description>Chọn đáp án đúng để hoàn thành câu.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+      <eng:text>My sister speaks English ________ than anyone else in her class.</eng:text>
+      <eng:choices>more fluently, most fluently, as fluently, fluent</eng:choices>
+      <eng:correctAnswer>more fluently</eng:correctAnswer>
+      <eng:explanation>So sánh hơn của trạng từ dài là "more + adverb".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 2: So sánh bằng</title>
+      <description>Điền từ còn thiếu.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ thích hợp:</eng:instruction>
+      <eng:text>This problem is [gap] difficult as the previous one.</eng:text>
+      <eng:correctAnswer>as</eng:correctAnswer>
+      <eng:explanation>Cấu trúc so sánh bằng: as + adjective + as.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 3: Ghép cấu trúc so sánh</title>
+      <description>Ghép cấu trúc với ý nghĩa tương ứng.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép đúng:</eng:instruction>
+      <eng:pairs>as...as|So sánh bằng,more...than|So sánh hơn,the most|So sánh nhất,less...than|Ít hơn</eng:pairs>
+      <eng:explanation>Các cấu trúc cơ bản của câu so sánh.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 4: Sắp xếp câu so sánh nhất</title>
+      <description>Sắp xếp thành câu đúng.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp các từ:</eng:instruction>
+      <eng:text>is / student / the / smartest / Linda / the / class / in</eng:text>
+      <eng:correctAnswer>Linda is the smartest student in the class</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: Subject + be + the + superlative + noun.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 5: Tìm lỗi sai</title>
+      <description>Chọn phần sai.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+      <eng:text>This exercise (A) is more (B) easier (C) than the last one (D).</eng:text>
+      <eng:choices>This exercise (A), more (B), easier (C), the last one (D)</eng:choices>
+      <eng:correctAnswer>more (B)</eng:correctAnswer>
+      <eng:explanation>Không dùng đồng thời "more" và tính từ ngắn ở dạng "-er". Phải là "easier".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 6: So sánh nhất</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án:</eng:instruction>
+      <eng:text>Mount Everest is ________ mountain in the world.</eng:text>
+      <eng:choices>higher, the highest, highest, more high</eng:choices>
+      <eng:correctAnswer>the highest</eng:correctAnswer>
+      <eng:explanation>So sánh nhất dùng "the + adjective-est".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 7: Điền từ vào cấu trúc so sánh hơn</title>
+      <description>Điền từ thích hợp.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ:</eng:instruction>
+      <eng:text>Learning online is [gap] convenient than attending traditional classes for many people.</eng:text>
+      <eng:correctAnswer>more</eng:correctAnswer>
+      <eng:explanation>Tính từ dài "convenient" dùng "more".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 8: Ghép tính từ với dạng so sánh</title>
+      <description>Ghép đúng.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép các cặp:</eng:instruction>
+      <eng:pairs>good|better,bad|worse,far|farther,little|less</eng:pairs>
+      <eng:explanation>Đây là các dạng so sánh bất quy tắc.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 9: Sắp xếp câu so sánh bằng</title>
+      <description>Sắp xếp thành câu hoàn chỉnh.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp các từ:</eng:instruction>
+      <eng:text>as / Tom / tall / is / as / his / brother</eng:text>
+      <eng:correctAnswer>Tom is as tall as his brother</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: Subject + be + as + adjective + as + noun.</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 10: Tìm lỗi sai nâng cao</title>
+      <description>Chọn phần chứa lỗi.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi:</eng:instruction>
+      <eng:text>No other (A) city in Vietnam (B) is as busier (C) as Ho Chi Minh City (D).</eng:text>
+      <eng:choices>No other (A), in Vietnam (B), as busier (C), Ho Chi Minh City (D)</eng:choices>
+      <eng:correctAnswer>as busier (C)</eng:correctAnswer>
+      <eng:explanation>Không kết hợp "as" với dạng so sánh hơn. Phải là "as busy as".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 11: So sánh hơn kép</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+      <eng:text>The weather is getting ________ every day.</eng:text>
+      <eng:choices>hotter and hotter, more hottest, the hotter, as hot</eng:choices>
+      <eng:correctAnswer>hotter and hotter</eng:correctAnswer>
+      <eng:explanation>Cấu trúc "comparative + and + comparative" diễn tả sự thay đổi liên tục.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 12: So sánh bằng với danh từ</title>
+      <description>Điền từ còn thiếu.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ thích hợp:</eng:instruction>
+      <eng:text>John has [gap] much experience as his manager.</eng:text>
+      <eng:correctAnswer>as</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: as much/many + noun + as.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 13: Ghép tính từ với dạng so sánh nhất</title>
+      <description>Ghép đúng các cặp.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép mỗi tính từ với dạng so sánh nhất:</eng:instruction>
+      <eng:pairs>good|the best,bad|the worst,far|the farthest,beautiful|the most beautiful</eng:pairs>
+      <eng:explanation>Một số tính từ có dạng bất quy tắc, một số dùng "the most".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 14: Sắp xếp câu so sánh hơn</title>
+      <description>Sắp xếp các từ thành câu đúng.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp:</eng:instruction>
+      <eng:text>more / is / difficult / Physics / than / Chemistry</eng:text>
+      <eng:correctAnswer>Physics is more difficult than Chemistry</eng:correctAnswer>
+      <eng:explanation>Tính từ dài dùng "more + adjective + than".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 15: Tìm lỗi sai</title>
+      <description>Chọn phần sai.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+      <eng:text>My house (A) is the (B) more expensive (C) on this street (D).</eng:text>
+      <eng:choices>My house (A), the (B), more expensive (C), on this street (D)</eng:choices>
+      <eng:correctAnswer>more expensive (C)</eng:correctAnswer>
+      <eng:explanation>So sánh nhất của tính từ dài là "the most expensive".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 16: So sánh nhất nâng cao</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án:</eng:instruction>
+      <eng:text>Of all the students, Anna answered the questions ________.</eng:text>
+      <eng:choices>most correctly, more correctly, as correctly, correctest</eng:choices>
+      <eng:correctAnswer>most correctly</eng:correctAnswer>
+      <eng:explanation>Trạng từ dài dùng "the most" để tạo so sánh nhất.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 17: Điền từ vào cấu trúc so sánh hơn</title>
+      <description>Điền từ thích hợp.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ:</eng:instruction>
+      <eng:text>Nothing is [gap] important than your health.</eng:text>
+      <eng:correctAnswer>more</eng:correctAnswer>
+      <eng:explanation>Tính từ dài "important" dùng "more".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 18: Ghép cấu trúc với công dụng</title>
+      <description>Ghép đúng.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép cấu trúc và ý nghĩa:</eng:instruction>
+      <eng:pairs>the + comparative..., the + comparative...|Càng...càng...,as + adjective + as|So sánh bằng,the + superlative|So sánh nhất,less + adjective + than|Ít...hơn</eng:pairs>
+      <eng:explanation>Đây là các cấu trúc so sánh thường gặp.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 19: Sắp xếp câu "càng...càng..."</title>
+      <description>Sắp xếp thành câu đúng.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp các từ:</eng:instruction>
+      <eng:text>harder / study / the / you / succeed / the / more / you</eng:text>
+      <eng:correctAnswer>The harder you study the more you succeed</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: The + comparative..., the + comparative....</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 20: Tìm lỗi sai nâng cao</title>
+      <description>Chọn phần chứa lỗi.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi:</eng:instruction>
+      <eng:text>Today (A) is the (B) cold (C) day than yesterday (D).</eng:text>
+      <eng:choices>Today (A), the (B), cold (C), than yesterday (D)</eng:choices>
+      <eng:correctAnswer>than yesterday (D)</eng:correctAnswer>
+      <eng:explanation>Không dùng "the ... than". Nếu có "than" phải dùng so sánh hơn (colder than). Nếu dùng "the coldest" thì không có "than".</eng:explanation>
+    </item>
+
+    <item>
+      <title>Câu 21: So sánh hơn với tính từ ngắn</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+      <eng:text>A cheetah can run ________ than a lion.</eng:text>
+      <eng:choices>faster, fastest, more fast, as fast</eng:choices>
+      <eng:correctAnswer>faster</eng:correctAnswer>
+      <eng:explanation>Tính từ/trạng từ ngắn dùng đuôi "-er" trong so sánh hơn.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 22: Điền từ vào cấu trúc so sánh nhất</title>
+      <description>Điền từ thích hợp.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ:</eng:instruction>
+      <eng:text>This is [gap] most exciting movie I have ever seen.</eng:text>
+      <eng:correctAnswer>the</eng:correctAnswer>
+      <eng:explanation>So sánh nhất luôn có mạo từ "the".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 23: Ghép tính từ với dạng so sánh hơn</title>
+      <description>Ghép đúng các cặp.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép:</eng:instruction>
+      <eng:pairs>happy|happier,busy|busier,careful|more careful,friendly|friendlier</eng:pairs>
+      <eng:explanation>Một số tính từ thêm "-er", một số dùng "more".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 24: Sắp xếp câu so sánh nhất</title>
+      <description>Sắp xếp thành câu hoàn chỉnh.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp các từ:</eng:instruction>
+      <eng:text>river / the / Nile / longest / the / is / in / Africa</eng:text>
+      <eng:correctAnswer>The Nile is the longest river in Africa</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: The + noun + be + the + superlative + noun.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 25: Tìm lỗi sai</title>
+      <description>Chọn phần sai.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi:</eng:instruction>
+      <eng:text>Her homework (A) is not (B) as easier (C) as mine (D).</eng:text>
+      <eng:choices>Her homework (A), is not (B), as easier (C), as mine (D)</eng:choices>
+      <eng:correctAnswer>as easier (C)</eng:correctAnswer>
+      <eng:explanation>Cấu trúc đúng là "not as easy as". Không dùng dạng so sánh hơn sau "as".</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 26: So sánh nhất với trạng từ</title>
+      <description>Chọn đáp án đúng.</description>
+      <eng:type>multiple-choice</eng:type>
+      <eng:instruction>Chọn đáp án:</eng:instruction>
+      <eng:text>Among all the players, David completed the race ________.</eng:text>
+      <eng:choices>the most quickly, quicker, as quickly, more quickly</eng:choices>
+      <eng:correctAnswer>the most quickly</eng:correctAnswer>
+      <eng:explanation>So sánh nhất của trạng từ dài: the most + adverb.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 27: Điền từ vào cấu trúc "càng...càng..."</title>
+      <description>Điền một từ thích hợp.</description>
+      <eng:type>fill-blank</eng:type>
+      <eng:instruction>Điền từ:</eng:instruction>
+      <eng:text>The more you practice, [gap] better you become.</eng:text>
+      <eng:correctAnswer>the</eng:correctAnswer>
+      <eng:explanation>Cấu trúc: The + comparative..., the + comparative....</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 28: Ghép cấu trúc với ví dụ</title>
+      <description>Ghép đúng.</description>
+      <eng:type>matching</eng:type>
+      <eng:instruction>Ghép cấu trúc và ví dụ:</eng:instruction>
+      <eng:pairs>as...as|Tom is as tall as Jack.,more...than|This book is more interesting than that one.,the most|She is the most talented singer.,-er than|Today is colder than yesterday.</eng:pairs>
+      <eng:explanation>Mỗi ví dụ minh họa một dạng câu so sánh khác nhau.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 29: Sắp xếp câu so sánh bằng</title>
+      <description>Sắp xếp các từ.</description>
+      <eng:type>reorder</eng:type>
+      <eng:instruction>Sắp xếp:</eng:instruction>
+      <eng:text>my / car / as / yours / isn't / as / old</eng:text>
+      <eng:correctAnswer>My car isn't as old as yours</eng:correctAnswer>
+      <eng:explanation>Cấu trúc phủ định: not as + adjective + as.</eng:explanation>
+    </item>
+    
+    <item>
+      <title>Câu 30: Tìm lỗi sai</title>
+      <description>Chọn phần chứa lỗi.</description>
+      <eng:type>error-id</eng:type>
+      <eng:instruction>Tìm lỗi:</eng:instruction>
+      <eng:text>She (A) is the (B) prettier (C) girl in our class (D).</eng:text>
+      <eng:choices>She (A), the (B), prettier (C), in our class (D)</eng:choices>
+      <eng:correctAnswer>prettier (C)</eng:correctAnswer>
+      <eng:explanation>So sánh nhất của "pretty" là "the prettiest", không phải "the prettier".</eng:explanation>
+    </item>
+
+  <item>
+		<title>Câu 31: So sánh hơn bất quy tắc</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>This book is ________ than the one I read last week.</eng:text>
+		<eng:choices>better, best, more good, as good</eng:choices>
+		<eng:correctAnswer>better</eng:correctAnswer>
+		<eng:explanation>"Good" có dạng so sánh hơn bất quy tắc là "better".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 32: Điền từ vào cấu trúc so sánh bằng</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>My brother is [gap] tall as my father.</eng:text>
+		<eng:correctAnswer>as</eng:correctAnswer>
+		<eng:explanation>Cấu trúc so sánh bằng: as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 33: Ghép tính từ với dạng so sánh</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>old|older,young|younger,expensive|more expensive,big|bigger</eng:pairs>
+		<eng:explanation>Các tính từ ngắn thêm "-er"; tính từ dài dùng "more".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 34: Sắp xếp câu so sánh hơn</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>than / today / yesterday / warmer / is</eng:text>
+		<eng:correctAnswer>Today is warmer than yesterday</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + comparative + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 35: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Mike (A) is as (B) smarter (C) as his brother (D).</eng:text>
+		<eng:choices>Mike (A), as (B), smarter (C), his brother (D)</eng:choices>
+		<eng:correctAnswer>smarter (C)</eng:correctAnswer>
+		<eng:explanation>Phải dùng "as smart as", không dùng dạng so sánh hơn sau "as".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 36: So sánh nhất</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>Which is ________ ocean in the world?</eng:text>
+		<eng:choices>larger, the largest, largest, more large</eng:choices>
+		<eng:correctAnswer>the largest</eng:correctAnswer>
+		<eng:explanation>So sánh nhất của "large" là "the largest".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 37: Điền từ vào cấu trúc so sánh hơn</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>Your idea is [gap] creative than mine.</eng:text>
+		<eng:correctAnswer>more</eng:correctAnswer>
+		<eng:explanation>"Creative" là tính từ dài nên dùng "more".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 38: Ghép cấu trúc với ví dụ</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>better than|This phone is better than mine.,as...as|The test is as easy as I expected.,the tallest|Nam is the tallest boy.,less...than|This road is less crowded than that one.</eng:pairs>
+		<eng:explanation>Ôn tập các cấu trúc so sánh thông dụng.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 39: Sắp xếp câu so sánh nhất</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>building / this / the / city / in / tallest / is / the</eng:text>
+		<eng:correctAnswer>This is the tallest building in the city</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: This is the + superlative + noun.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 40: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Today (A) is more (B) colder (C) than yesterday (D).</eng:text>
+		<eng:choices>Today (A), more (B), colder (C), than yesterday (D)</eng:choices>
+		<eng:correctAnswer>more (B)</eng:correctAnswer>
+		<eng:explanation>Không dùng "more" với tính từ ngắn đã thêm "-er". Câu đúng là "Today is colder than yesterday."</eng:explanation>
+	</item>
+
+  <item>
+		<title>Câu 41: So sánh hơn với trạng từ bất quy tắc</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>Jane drives ________ than her brother.</eng:text>
+		<eng:choices>better, best, more well, as well</eng:choices>
+		<eng:correctAnswer>better</eng:correctAnswer>
+		<eng:explanation>Trạng từ "well" có dạng so sánh hơn bất quy tắc là "better".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 42: Điền từ vào cấu trúc so sánh nhất</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>She is [gap] youngest member of the team.</eng:text>
+		<eng:correctAnswer>the</eng:correctAnswer>
+		<eng:explanation>So sánh nhất luôn đi với mạo từ "the".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 43: Ghép tính từ với dạng so sánh nhất</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>small|the smallest,large|the largest,busy|the busiest,careful|the most careful</eng:pairs>
+		<eng:explanation>Tính từ ngắn thêm "-est"; tính từ dài dùng "the most".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 44: Sắp xếp câu so sánh bằng</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>today / yesterday / isn't / as / hot / as</eng:text>
+		<eng:correctAnswer>Today isn't as hot as yesterday</eng:correctAnswer>
+		<eng:explanation>Cấu trúc phủ định: not as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 45: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>This test (A) is the (B) most easiest (C) one of all (D).</eng:text>
+		<eng:choices>This test (A), the (B), most easiest (C), one of all (D)</eng:choices>
+		<eng:correctAnswer>most easiest (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng đồng thời "most" và tính từ đã thêm "-est". Phải là "the easiest".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 46: So sánh hơn với "less"</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>This exercise is ________ difficult than the previous one.</eng:text>
+		<eng:choices>less, least, little, the less</eng:choices>
+		<eng:correctAnswer>less</eng:correctAnswer>
+		<eng:explanation>"Less + adjective + than" dùng để diễn tả "ít... hơn".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 47: Điền từ vào cấu trúc so sánh bằng</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>My new phone is as expensive [gap] yours.</eng:text>
+		<eng:correctAnswer>as</eng:correctAnswer>
+		<eng:explanation>Cấu trúc chuẩn là "as + adjective + as".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 48: Ghép cấu trúc với công dụng</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>better than|So sánh hơn bất quy tắc,the oldest|So sánh nhất,as much as|So sánh bằng với danh từ,less expensive than|So sánh kém hơn</eng:pairs>
+		<eng:explanation>Ôn tập các dạng so sánh thường gặp.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 49: Sắp xếp câu "càng...càng..."</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>the / happier / smile / you / the / more / you / feel</eng:text>
+		<eng:correctAnswer>The more you smile the happier you feel</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: The + comparative..., the + comparative....</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 50: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>No other (A) animal (B) is faster (C) than the cheetah (D).</eng:text>
+		<eng:choices>No other (A), animal (B), faster (C), than the cheetah (D)</eng:choices>
+		<eng:correctAnswer>Không có lỗi</eng:correctAnswer>
+		<eng:explanation>Đây là câu đúng. Cấu trúc "No other + noun + is + comparative + than..." được dùng để diễn đạt ý nghĩa so sánh nhất.</eng:explanation>
+	</item>
+
+  	<item>
+		<title>Câu 51: So sánh hơn với tính từ dài</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>This solution is ________ than the one we discussed yesterday.</eng:text>
+		<eng:choices>more effective, most effective, effective, as effective</eng:choices>
+		<eng:correctAnswer>more effective</eng:correctAnswer>
+		<eng:explanation>Tính từ dài dùng "more + adjective + than" trong so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 52: Điền từ vào cấu trúc so sánh hơn</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>Today is [gap] colder than it was yesterday.</eng:text>
+		<eng:correctAnswer>much</eng:correctAnswer>
+		<eng:explanation>"Much" được dùng để nhấn mạnh mức độ của so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 53: Ghép dạng so sánh bất quy tắc</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>good|best,bad|worst,little|least,many|most</eng:pairs>
+		<eng:explanation>Đây là các dạng so sánh nhất bất quy tắc.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 54: Sắp xếp câu so sánh hơn</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>than / bicycle / a / motorcycle / faster / is / a</eng:text>
+		<eng:correctAnswer>A motorcycle is faster than a bicycle</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + comparative + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 55: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Of the three sisters (A), Lucy (B) is taller (C) one (D).</eng:text>
+		<eng:choices>Of the three sisters (A), Lucy (B), taller (C), one (D)</eng:choices>
+		<eng:correctAnswer>taller (C)</eng:correctAnswer>
+		<eng:explanation>Khi so sánh từ ba đối tượng trở lên phải dùng so sánh nhất: "the tallest".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 56: So sánh bằng với danh từ</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>She has ________ patience as her mother.</eng:text>
+		<eng:choices>as much, much, more, the most</eng:choices>
+		<eng:correctAnswer>as much</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: as much + noun không đếm được + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 57: Điền từ vào cấu trúc so sánh nhất</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>He is the [gap] intelligent student in the class.</eng:text>
+		<eng:correctAnswer>most</eng:correctAnswer>
+		<eng:explanation>Tính từ dài "intelligent" dùng "the most".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 58: Ghép cấu trúc với ví dụ</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>much better than|This camera is much better than mine.,the least expensive|This is the least expensive option.,not as...as|My room is not as large as yours.,the more...the more...|The more you read, the more you learn.</eng:pairs>
+		<eng:explanation>Các ví dụ minh họa nhiều cấu trúc so sánh nâng cao.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 59: Sắp xếp câu so sánh nhất</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>the / Einstein / one / greatest / scientists / was / of</eng:text>
+		<eng:correctAnswer>Einstein was one of the greatest scientists</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: one of the + superlative + plural noun.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 60: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>This road (A) is less (B) wider (C) than the highway (D).</eng:text>
+		<eng:choices>This road (A), less (B), wider (C), than the highway (D)</eng:choices>
+		<eng:correctAnswer>wider (C)</eng:correctAnswer>
+		<eng:explanation>Sau "less" phải dùng tính từ nguyên mẫu: "less wide than", không dùng "less wider".</eng:explanation>
+	</item>
+
+  	<item>
+		<title>Câu 61: So sánh hơn với "far"</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>My school is ________ from my house than yours.</eng:text>
+		<eng:choices>farther, farthest, the farthest, as far</eng:choices>
+		<eng:correctAnswer>farther</eng:correctAnswer>
+		<eng:explanation>"Far" có dạng so sánh hơn là "farther" (hoặc "further").</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 62: Điền từ vào cấu trúc so sánh bằng</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>My laptop isn't as powerful [gap] yours.</eng:text>
+		<eng:correctAnswer>as</eng:correctAnswer>
+		<eng:explanation>Cấu trúc phủ định: not as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 63: Ghép tính từ với dạng so sánh hơn</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>thin|thinner,heavy|heavier,interesting|more interesting,quiet|quieter</eng:pairs>
+		<eng:explanation>Ôn tập quy tắc thêm "-er" và dùng "more".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 64: Sắp xếp câu so sánh hơn</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>coffee / tea / stronger / is / than</eng:text>
+		<eng:correctAnswer>Coffee is stronger than tea</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + comparative + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 65: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>This restaurant (A) serves (B) the most deliciousest (C) food in town (D).</eng:text>
+		<eng:choices>This restaurant (A), serves (B), the most deliciousest (C), in town (D)</eng:choices>
+		<eng:correctAnswer>the most deliciousest (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng đồng thời "most" và "-est". Phải là "the most delicious".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 66: So sánh nhất</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>Which student solved the problem ________?</eng:text>
+		<eng:choices>the fastest, faster, fast, more fast</eng:choices>
+		<eng:correctAnswer>the fastest</eng:correctAnswer>
+		<eng:explanation>So sánh nhất của trạng từ ngắn là "the fastest".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 67: Điền từ vào cấu trúc so sánh hơn</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>Your answer is [gap] better than mine.</eng:text>
+		<eng:correctAnswer>much</eng:correctAnswer>
+		<eng:explanation>"Much" được dùng để nhấn mạnh so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 68: Ghép cấu trúc với ý nghĩa</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>the least|Ít nhất,farther than|Xa hơn,as many as|Nhiều bằng,the best|Tốt nhất</eng:pairs>
+		<eng:explanation>Ôn tập các cấu trúc so sánh phổ biến.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 69: Sắp xếp câu so sánh nhất</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>planet / Jupiter / the / solar / largest / is / the / in / system</eng:text>
+		<eng:correctAnswer>Jupiter is the largest planet in the solar system</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + the + superlative + noun.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 70: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>His bag (A) is as (B) heavier (C) as mine (D).</eng:text>
+		<eng:choices>His bag (A), as (B), heavier (C), mine (D)</eng:choices>
+		<eng:correctAnswer>heavier (C)</eng:correctAnswer>
+		<eng:explanation>Sau "as" phải dùng tính từ nguyên mẫu: "as heavy as", không dùng dạng so sánh hơn.</eng:explanation>
+	</item>
+
+  	<item>
+		<title>Câu 71: So sánh hơn với tính từ bất quy tắc</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>His health is ________ now than it was last year.</eng:text>
+		<eng:choices>better, best, more good, as good</eng:choices>
+		<eng:correctAnswer>better</eng:correctAnswer>
+		<eng:explanation>"Good" có dạng so sánh hơn là "better".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 72: Điền từ vào cấu trúc so sánh nhất</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>This is [gap] least expensive hotel in the city.</eng:text>
+		<eng:correctAnswer>the</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: the least + adjective.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 73: Ghép tính từ với dạng so sánh hơn</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>early|earlier,noisy|noisier,modern|more modern,safe|safer</eng:pairs>
+		<eng:explanation>Ôn tập quy tắc thành lập so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 74: Sắp xếp câu so sánh bằng</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>this / as / book / interesting / isn't / that / one / as</eng:text>
+		<eng:correctAnswer>This book isn't as interesting as that one</eng:correctAnswer>
+		<eng:explanation>Cấu trúc phủ định: not as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 75: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>She (A) is one of (B) the most smartest (C) students in school (D).</eng:text>
+		<eng:choices>She (A), one of (B), the most smartest (C), students in school (D)</eng:choices>
+		<eng:correctAnswer>the most smartest (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng "most" với tính từ đã có đuôi "-est". Phải là "the smartest".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 76: So sánh hơn với "less"</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>Traveling by train is ________ expensive than flying.</eng:text>
+		<eng:choices>less, least, little, the least</eng:choices>
+		<eng:correctAnswer>less</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: less + adjective + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 77: Điền từ vào cấu trúc so sánh bằng</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>There are [gap] many books in my bag as in yours.</eng:text>
+		<eng:correctAnswer>as</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: as many + noun + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 78: Ghép cấu trúc với ví dụ</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>the least interesting|This is the least interesting lesson.,more slowly than|He walks more slowly than his father.,as little as|She drinks as little water as her sister.,the older...the wiser...|The older we get, the wiser we become.</eng:pairs>
+		<eng:explanation>Đây là các cấu trúc so sánh nâng cao thường gặp.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 79: Sắp xếp câu so sánh hơn</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>English / easier / Math / than / is / for / me</eng:text>
+		<eng:correctAnswer>English is easier than Math for me</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + comparative + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 80: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Peter (A) studies (B) more harder (C) than his classmates (D).</eng:text>
+		<eng:choices>Peter (A), studies (B), more harder (C), than his classmates (D)</eng:choices>
+		<eng:correctAnswer>more harder (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng đồng thời "more" và tính từ/trạng từ đã có đuôi "-er". Câu đúng là "Peter studies harder than his classmates."</eng:explanation>
+	</item>
+
+  	<item>
+		<title>Câu 81: So sánh hơn với trạng từ</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>My father works ________ than anyone else in the company.</eng:text>
+		<eng:choices>harder, hardest, more hard, as hard</eng:choices>
+		<eng:correctAnswer>harder</eng:correctAnswer>
+		<eng:explanation>Trạng từ ngắn "hard" có dạng so sánh hơn là "harder".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 82: Điền từ vào cấu trúc so sánh nhất</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>She is [gap] most hardworking student in our class.</eng:text>
+		<eng:correctAnswer>the</eng:correctAnswer>
+		<eng:explanation>So sánh nhất luôn dùng "the" trước "most".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 83: Ghép tính từ với dạng so sánh nhất</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>easy|the easiest,happy|the happiest,important|the most important,bad|the worst</eng:pairs>
+		<eng:explanation>Ôn tập các dạng so sánh nhất thường gặp.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 84: Sắp xếp câu so sánh hơn</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>summer / than / spring / hotter / is</eng:text>
+		<eng:correctAnswer>Summer is hotter than spring</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + comparative + than.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 85: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>This puzzle (A) is as (B) more difficult (C) as that one (D).</eng:text>
+		<eng:choices>This puzzle (A), as (B), more difficult (C), that one (D)</eng:choices>
+		<eng:correctAnswer>more difficult (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng "more" trong cấu trúc "as...as". Câu đúng là "as difficult as".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 86: So sánh nhất với trạng từ</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>Who answered the teacher's question ________?</eng:text>
+		<eng:choices>the most confidently, more confidently, confidently, most confident</eng:choices>
+		<eng:correctAnswer>the most confidently</eng:correctAnswer>
+		<eng:explanation>So sánh nhất của trạng từ dài là "the most + adverb".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 87: Điền từ vào cấu trúc so sánh hơn</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>This exercise is [gap] easier than the previous one.</eng:text>
+		<eng:correctAnswer>a little</eng:correctAnswer>
+		<eng:explanation>"A little" có thể dùng để nhấn mạnh mức độ của so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 88: Ghép cấu trúc với ý nghĩa</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>the least|Ít nhất,no less than|Không dưới,far better than|Tốt hơn nhiều,as few as|Ít bằng</eng:pairs>
+		<eng:explanation>Đây là các cấu trúc so sánh thường gặp trong tiếng Anh.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 89: Sắp xếp câu so sánh nhất</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>Tokyo / one / largest / cities / is / the / of / the / in / world</eng:text>
+		<eng:correctAnswer>Tokyo is one of the largest cities in the world</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: one of the + superlative + plural noun.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 90: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Lan (A) is the (B) most tallest (C) girl in her class (D).</eng:text>
+		<eng:choices>Lan (A), the (B), most tallest (C), in her class (D)</eng:choices>
+		<eng:correctAnswer>most tallest (C)</eng:correctAnswer>
+		<eng:explanation>Không dùng "most" với tính từ đã có đuôi "-est". Câu đúng là "the tallest".</eng:explanation>
+	</item>
+
+  	<item>
+		<title>Câu 91: So sánh hơn với "good"</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+		<eng:text>Your presentation was ________ than mine.</eng:text>
+		<eng:choices>better, best, more good, as good</eng:choices>
+		<eng:correctAnswer>better</eng:correctAnswer>
+		<eng:explanation>"Good" có dạng so sánh hơn bất quy tắc là "better".</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 92: Điền từ vào cấu trúc so sánh bằng</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>This bag is as heavy [gap] that one.</eng:text>
+		<eng:correctAnswer>as</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 93: Ghép tính từ với dạng so sánh hơn</title>
+		<description>Ghép đúng các cặp.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>cheap|cheaper,rich|richer,dangerous|more dangerous,kind|kinder</eng:pairs>
+		<eng:explanation>Ôn tập cách thành lập so sánh hơn của tính từ.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 94: Sắp xếp câu so sánh nhất</title>
+		<description>Sắp xếp các từ thành câu đúng.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>the / whale / animal / blue / largest / is / the / in / world</eng:text>
+		<eng:correctAnswer>The blue whale is the largest animal in the world</eng:correctAnswer>
+		<eng:explanation>Cấu trúc: Subject + be + the + superlative + noun.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 95: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>My bicycle (A) is more (B) cheaper (C) than yours (D).</eng:text>
+		<eng:choices>My bicycle (A), more (B), cheaper (C), than yours (D)</eng:choices>
+		<eng:correctAnswer>more (B)</eng:correctAnswer>
+		<eng:explanation>Không dùng "more" với tính từ ngắn đã thêm "-er". Câu đúng là "My bicycle is cheaper than yours."</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 96: So sánh nhất với tính từ dài</title>
+		<description>Chọn đáp án đúng.</description>
+		<eng:type>multiple-choice</eng:type>
+		<eng:instruction>Chọn đáp án:</eng:instruction>
+		<eng:text>This is ________ novel I have ever read.</eng:text>
+		<eng:choices>the most fascinating, more fascinating, fascinating, the fascinating</eng:choices>
+		<eng:correctAnswer>the most fascinating</eng:correctAnswer>
+		<eng:explanation>Tính từ dài dùng "the most + adjective" để tạo so sánh nhất.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 97: Điền từ vào cấu trúc so sánh hơn</title>
+		<description>Điền từ thích hợp.</description>
+		<eng:type>fill-blank</eng:type>
+		<eng:instruction>Điền từ:</eng:instruction>
+		<eng:text>Your house is [gap] bigger than mine.</eng:text>
+		<eng:correctAnswer>slightly</eng:correctAnswer>
+		<eng:explanation>"Slightly" được dùng để diễn tả mức độ chênh lệch nhỏ trong so sánh hơn.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 98: Ghép cấu trúc với ví dụ</title>
+		<description>Ghép đúng.</description>
+		<eng:type>matching</eng:type>
+		<eng:instruction>Ghép:</eng:instruction>
+		<eng:pairs>slightly better than|His result is slightly better than mine.,the least crowded|This beach is the least crowded.,as old as|My grandfather is as old as yours.,far more interesting|The movie is far more interesting than the book.</eng:pairs>
+		<eng:explanation>Các ví dụ sử dụng nhiều mức độ khác nhau của câu so sánh.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 99: Sắp xếp câu so sánh bằng</title>
+		<description>Sắp xếp các từ.</description>
+		<eng:type>reorder</eng:type>
+		<eng:instruction>Sắp xếp:</eng:instruction>
+		<eng:text>your / isn't / computer / mine / as / fast / as</eng:text>
+		<eng:correctAnswer>Your computer isn't as fast as mine</eng:correctAnswer>
+		<eng:explanation>Cấu trúc phủ định: not as + adjective + as.</eng:explanation>
+	</item>
+
+	<item>
+		<title>Câu 100: Tìm lỗi sai</title>
+		<description>Chọn phần sai.</description>
+		<eng:type>error-id</eng:type>
+		<eng:instruction>Tìm lỗi:</eng:instruction>
+		<eng:text>Among (A) all the players, Tom (B) is the better (C) one (D).</eng:text>
+		<eng:choices>Among (A), Tom (B), the better (C), one (D)</eng:choices>
+		<eng:correctAnswer>the better (C)</eng:correctAnswer>
+		<eng:explanation>Với "among all...", phải dùng so sánh nhất: "the best one".</eng:explanation>
+	</item>
+
+  </channel>
+</rss>
