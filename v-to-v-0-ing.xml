@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:eng="http://english-rss.com/schema">
+<channel>
+  <title>Động từ theo sau bởi To V hoặc V-ing - Bộ 01</title>
+  <description>10 bài tập tổng hợp về động từ theo sau bởi to V hoặc V-ing.</description>
+  <link>https://example.com</link>
+  <language>vi</language>
+
+  <item>
+    <title>Câu 1: Promise + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>My brother promised ______ me with my homework.</eng:text>
+    <eng:choices>help,to help,helping,to helping</eng:choices>
+    <eng:correctAnswer>to help</eng:correctAnswer>
+    <eng:explanation>"Promise" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 2: Enjoy + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>Linda enjoys [gap] books after dinner.</eng:text>
+    <eng:correctAnswer>reading</eng:correctAnswer>
+    <eng:explanation>"Enjoy" luôn đi với V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 3: Matching - Động từ với cấu trúc</title>
+    <description>Nối động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>decide|to V,avoid|V-ing,hope|to V,suggest|V-ing</eng:pairs>
+    <eng:explanation>
+      decide + to V
+      avoid + V-ing
+      hope + to V
+      suggest + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 4: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp đúng:</eng:instruction>
+    <eng:text>likes / swimming / Mary / every / morning</eng:text>
+    <eng:correctAnswer>Mary likes swimming every morning</eng:correctAnswer>
+    <eng:explanation>"Like" có thể đi với V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 5: Tìm lỗi sai</title>
+    <description>Tìm phần sai.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai:</eng:instruction>
+    <eng:text>She suggested (A) to go (B) to the beach (C) yesterday (D).</eng:text>
+    <eng:choices>suggested (A), to go (B), to the beach (C), yesterday (D)</eng:choices>
+    <eng:correctAnswer>to go (B)</eng:correctAnswer>
+    <eng:explanation>"Suggest" phải theo sau bởi V-ing: suggested going.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 6: Decide + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng:</eng:instruction>
+    <eng:text>We decided ______ home because it was late.</eng:text>
+    <eng:choices>stay,staying,to stay,to staying</eng:choices>
+    <eng:correctAnswer>to stay</eng:correctAnswer>
+    <eng:explanation>"Decide" đi với "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 7: Finish + V-ing</title>
+    <description>Điền dạng đúng.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ:</eng:instruction>
+    <eng:text>The students finished [gap] the classroom before lunch.</eng:text>
+    <eng:correctAnswer>cleaning</eng:correctAnswer>
+    <eng:explanation>"Finish" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 8: Matching - Chọn đúng cấu trúc</title>
+    <description>Nối động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Nối đúng:</eng:instruction>
+    <eng:pairs>want|to V,mind|V-ing,plan|to V,enjoy|V-ing</eng:pairs>
+    <eng:explanation>
+      want + to V
+      mind + V-ing
+      plan + to V
+      enjoy + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 9: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp:</eng:instruction>
+    <eng:text>to / wants / become / a / teacher / Anna</eng:text>
+    <eng:correctAnswer>Anna wants to become a teacher</eng:correctAnswer>
+    <eng:explanation>"Want" đi với to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 10: Tìm lỗi sai</title>
+    <description>Tìm lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai:</eng:instruction>
+    <eng:text>He enjoys (A) to play (B) football with (C) his friends (D).</eng:text>
+    <eng:choices>enjoys (A), to play (B), with (C), his friends (D)</eng:choices>
+    <eng:correctAnswer>to play (B)</eng:correctAnswer>
+    <eng:explanation>"Enjoy" phải theo sau bởi V-ing: enjoys playing.</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 11: Avoid + V-ing</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>David always avoids ______ about other people.</eng:text>
+    <eng:choices>talk,to talk,talking,to talking</eng:choices>
+    <eng:correctAnswer>talking</eng:correctAnswer>
+    <eng:explanation>"Avoid" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 12: Hope + to V</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>My parents hope [gap] a new house next year.</eng:text>
+    <eng:correctAnswer>to buy</eng:correctAnswer>
+    <eng:explanation>"Hope" luôn đi với to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 13: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>finish|V-ing,learn|to V,practice|V-ing,expect|to V</eng:pairs>
+    <eng:explanation>
+      finish + V-ing
+      learn + to V
+      practice + V-ing
+      expect + to V
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 14: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp đúng:</eng:instruction>
+    <eng:text>decided / to / early / leave / they</eng:text>
+    <eng:correctAnswer>they decided to leave early</eng:correctAnswer>
+    <eng:explanation>"Decide" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 15: Tìm lỗi sai</title>
+    <description>Chọn phần sai.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>They finished (A) to paint (B) the classroom (C) yesterday (D).</eng:text>
+    <eng:choices>finished (A), to paint (B), the classroom (C), yesterday (D)</eng:choices>
+    <eng:correctAnswer>to paint (B)</eng:correctAnswer>
+    <eng:explanation>"Finish" phải theo sau bởi V-ing: finished painting.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 16: Plan + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác:</eng:instruction>
+    <eng:text>We plan ______ Da Nang this summer.</eng:text>
+    <eng:choices>visit,visiting,to visit,to visiting</eng:choices>
+    <eng:correctAnswer>to visit</eng:correctAnswer>
+    <eng:explanation>"Plan" luôn theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 17: Practice + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>The pianist practices [gap] every day.</eng:text>
+    <eng:correctAnswer>playing</eng:correctAnswer>
+    <eng:explanation>"Practice" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 18: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép các cặp:</eng:instruction>
+    <eng:pairs>promise|to V,keep|V-ing,agree|to V,consider|V-ing</eng:pairs>
+    <eng:explanation>
+      promise + to V
+      keep + V-ing
+      agree + to V
+      consider + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 19: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Sắp xếp:</eng:instruction>
+    <eng:text>singing / enjoys / in / the / choir / Emma</eng:text>
+    <eng:correctAnswer>Emma enjoys singing in the choir</eng:correctAnswer>
+    <eng:explanation>"Enjoy" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 20: Tìm lỗi sai</title>
+    <description>Tìm lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Chọn phần sai:</eng:instruction>
+    <eng:text>I hope (A) passing (B) the final exam (C) this year (D).</eng:text>
+    <eng:choices>hope (A), passing (B), the final exam (C), this year (D)</eng:choices>
+    <eng:correctAnswer>passing (B)</eng:correctAnswer>
+    <eng:explanation>"Hope" phải theo sau bởi to V: hope to pass.</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 21: Want + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>Jenny wants ______ a famous singer in the future.</eng:text>
+    <eng:choices>be,being,to be,to being</eng:choices>
+    <eng:correctAnswer>to be</eng:correctAnswer>
+    <eng:explanation>"Want" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 22: Consider + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp vào chỗ trống:</eng:instruction>
+    <eng:text>Have you ever considered [gap] abroad?</eng:text>
+    <eng:correctAnswer>studying</eng:correctAnswer>
+    <eng:explanation>"Consider" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 23: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>refuse|to V,admit|V-ing,offer|to V,delay|V-ing</eng:pairs>
+    <eng:explanation>
+      refuse + to V
+      admit + V-ing
+      offer + to V
+      delay + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 24: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ để tạo thành câu đúng:</eng:instruction>
+    <eng:text>refused / answer / he / to / the / question</eng:text>
+    <eng:correctAnswer>he refused to answer the question</eng:correctAnswer>
+    <eng:explanation>"Refuse" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 25: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm phần sai:</eng:instruction>
+    <eng:text>She admitted (A) to break (B) the window (C) yesterday (D).</eng:text>
+    <eng:choices>admitted (A), to break (B), the window (C), yesterday (D)</eng:choices>
+    <eng:correctAnswer>to break (B)</eng:correctAnswer>
+    <eng:explanation>"Admit" phải theo sau bởi V-ing: admitted breaking.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 26: Agree + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng nhất:</eng:instruction>
+    <eng:text>My classmates agreed ______ together after school.</eng:text>
+    <eng:choices>study,studying,to study,to studying</eng:choices>
+    <eng:correctAnswer>to study</eng:correctAnswer>
+    <eng:explanation>"Agree" luôn theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 27: Delay + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>They delayed [gap] the meeting because of the storm.</eng:text>
+    <eng:correctAnswer>holding</eng:correctAnswer>
+    <eng:explanation>"Delay" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 28: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng các cặp.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép động từ với cấu trúc:</eng:instruction>
+    <eng:pairs>choose|to V,miss|V-ing,pretend|to V,risk|V-ing</eng:pairs>
+    <eng:explanation>
+      choose + to V
+      miss + V-ing
+      pretend + to V
+      risk + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 29: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ theo đúng thứ tự:</eng:instruction>
+    <eng:text>misses / playing / basketball / he / weekends / on</eng:text>
+    <eng:correctAnswer>he misses playing basketball on weekends</eng:correctAnswer>
+    <eng:explanation>"Miss" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 30: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>They decided (A) going (B) to the museum (C) together (D).</eng:text>
+    <eng:choices>decided (A), going (B), to the museum (C), together (D)</eng:choices>
+    <eng:correctAnswer>going (B)</eng:correctAnswer>
+    <eng:explanation>"Decide" phải theo sau bởi to V: decided to go.</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 41: Choose + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>Lisa chose ______ at home instead of going out.</eng:text>
+    <eng:choices>stay,staying,to stay,to staying</eng:choices>
+    <eng:correctAnswer>to stay</eng:correctAnswer>
+    <eng:explanation>"Choose" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 42: Miss + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp vào chỗ trống:</eng:instruction>
+    <eng:text>I really miss [gap] with my old classmates.</eng:text>
+    <eng:correctAnswer>studying</eng:correctAnswer>
+    <eng:explanation>"Miss" theo sau bởi V-ing khi mang nghĩa nhớ hoặc tiếc việc gì.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 43: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>fail|to V,postpone|V-ing,attempt|to V,mention|V-ing</eng:pairs>
+    <eng:explanation>
+      fail + to V
+      postpone + V-ing
+      attempt + to V
+      mention + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 44: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ để tạo thành câu đúng:</eng:instruction>
+    <eng:text>failed / pass / to / the / exam / he</eng:text>
+    <eng:correctAnswer>he failed to pass the exam</eng:correctAnswer>
+    <eng:explanation>"Fail" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 45: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm phần sai:</eng:instruction>
+    <eng:text>They postponed (A) to hold (B) the meeting (C) until Monday (D).</eng:text>
+    <eng:choices>postponed (A), to hold (B), the meeting (C), until Monday (D)</eng:choices>
+    <eng:correctAnswer>to hold (B)</eng:correctAnswer>
+    <eng:explanation>"Postpone" luôn theo sau bởi V-ing: postponed holding.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 46: Attempt + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng nhất:</eng:instruction>
+    <eng:text>The firefighters attempted ______ the family from the burning house.</eng:text>
+    <eng:choices>save,saving,to save,to saving</eng:choices>
+    <eng:correctAnswer>to save</eng:correctAnswer>
+    <eng:explanation>"Attempt" luôn theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 47: Mention + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>He never mentioned [gap] abroad.</eng:text>
+    <eng:correctAnswer>working</eng:correctAnswer>
+    <eng:explanation>"Mention" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 48: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng các cặp.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép động từ với cấu trúc:</eng:instruction>
+    <eng:pairs>pretend|to V,resist|V-ing,afford|to V,admit|V-ing</eng:pairs>
+    <eng:explanation>
+      pretend + to V
+      resist + V-ing
+      afford + to V
+      admit + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 49: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ theo đúng thứ tự:</eng:instruction>
+    <eng:text>resisted / laughing / everyone / at / the / joke</eng:text>
+    <eng:correctAnswer>everyone resisted laughing at the joke</eng:correctAnswer>
+    <eng:explanation>"Resist" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 50: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>She afforded (A) buying (B) a new laptop (C) last month (D).</eng:text>
+    <eng:choices>afforded (A), buying (B), a new laptop (C), last month (D)</eng:choices>
+    <eng:correctAnswer>buying (B)</eng:correctAnswer>
+    <eng:explanation>"Afford" phải theo sau bởi to V: afforded to buy (hoặc phổ biến hơn: could afford to buy).</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 51: Refuse + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>The little boy refused ______ his vegetables.</eng:text>
+    <eng:choices>eat,eating,to eat,to eating</eng:choices>
+    <eng:correctAnswer>to eat</eng:correctAnswer>
+    <eng:explanation>"Refuse" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 52: Appreciate + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp vào chỗ trống:</eng:instruction>
+    <eng:text>I really appreciate [gap] me with this project.</eng:text>
+    <eng:correctAnswer>helping</eng:correctAnswer>
+    <eng:explanation>"Appreciate" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 53: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>promise|to V,enjoy|V-ing,hope|to V,finish|V-ing</eng:pairs>
+    <eng:explanation>
+      promise + to V
+      enjoy + V-ing
+      hope + to V
+      finish + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 54: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ để tạo thành câu đúng:</eng:instruction>
+    <eng:text>promised / to / she / arrive / early</eng:text>
+    <eng:correctAnswer>she promised to arrive early</eng:correctAnswer>
+    <eng:explanation>"Promise" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 55: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm phần sai:</eng:instruction>
+    <eng:text>We considered (A) to move (B) to another city (C) last year (D).</eng:text>
+    <eng:choices>considered (A), to move (B), to another city (C), last year (D)</eng:choices>
+    <eng:correctAnswer>to move (B)</eng:correctAnswer>
+    <eng:explanation>"Consider" luôn theo sau bởi V-ing: considered moving.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 56: Seem + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng nhất:</eng:instruction>
+    <eng:text>The baby seems ______ comfortably now.</eng:text>
+    <eng:choices>sleep,sleeping,to sleep,to sleeping</eng:choices>
+    <eng:correctAnswer>to sleep</eng:correctAnswer>
+    <eng:explanation>"Seem" luôn theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 57: Suggest + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>Our teacher suggested [gap] more English books.</eng:text>
+    <eng:correctAnswer>reading</eng:correctAnswer>
+    <eng:explanation>"Suggest" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 58: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng các cặp.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép động từ với cấu trúc:</eng:instruction>
+    <eng:pairs>agree|to V,avoid|V-ing,decide|to V,practice|V-ing</eng:pairs>
+    <eng:explanation>
+      agree + to V
+      avoid + V-ing
+      decide + to V
+      practice + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 59: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ theo đúng thứ tự:</eng:instruction>
+    <eng:text>practices / speaking / every / English / day / she</eng:text>
+    <eng:correctAnswer>she practices speaking English every day</eng:correctAnswer>
+    <eng:explanation>"Practice" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 60: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>He managed (A) finishing (B) the work (C) on time (D).</eng:text>
+    <eng:choices>managed (A), finishing (B), the work (C), on time (D)</eng:choices>
+    <eng:correctAnswer>finishing (B)</eng:correctAnswer>
+    <eng:explanation>"Manage" phải theo sau bởi to V: managed to finish.</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 61: Offer + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>My neighbor offered ______ me carry the heavy box.</eng:text>
+    <eng:choices>help,helping,to help,to helping</eng:choices>
+    <eng:correctAnswer>to help</eng:correctAnswer>
+    <eng:explanation>"Offer" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 62: Risk + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp vào chỗ trống:</eng:instruction>
+    <eng:text>You shouldn't risk [gap] in this dangerous river.</eng:text>
+    <eng:correctAnswer>swimming</eng:correctAnswer>
+    <eng:explanation>"Risk" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 63: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>offer|to V,risk|V-ing,learn|to V,keep|V-ing</eng:pairs>
+    <eng:explanation>
+      offer + to V
+      risk + V-ing
+      learn + to V
+      keep + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 64: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ để tạo thành câu đúng:</eng:instruction>
+    <eng:text>offered / to / Jack / drive / us / home</eng:text>
+    <eng:correctAnswer>Jack offered to drive us home</eng:correctAnswer>
+    <eng:explanation>"Offer" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 65: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm phần sai:</eng:instruction>
+    <eng:text>She refused (A) helping (B) us with (C) the project (D).</eng:text>
+    <eng:choices>refused (A), helping (B), us with (C), the project (D)</eng:choices>
+    <eng:correctAnswer>helping (B)</eng:correctAnswer>
+    <eng:explanation>"Refuse" phải theo sau bởi to V: refused to help.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 66: Prepare + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng nhất:</eng:instruction>
+    <eng:text>The athletes prepared ______ in the final race.</eng:text>
+    <eng:choices>compete,competing,to compete,to competing</eng:choices>
+    <eng:correctAnswer>to compete</eng:correctAnswer>
+    <eng:explanation>"Prepare" thường theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 67: Recommend + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>The doctor recommended [gap] more vegetables.</eng:text>
+    <eng:correctAnswer>eating</eng:correctAnswer>
+    <eng:explanation>"Recommend" theo sau bởi V-ing khi giới thiệu một hành động.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 68: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng các cặp.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép động từ với cấu trúc:</eng:instruction>
+    <eng:pairs>prepare|to V,recommend|V-ing,attempt|to V,deny|V-ing</eng:pairs>
+    <eng:explanation>
+      prepare + to V
+      recommend + V-ing
+      attempt + to V
+      deny + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 69: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ theo đúng thứ tự:</eng:instruction>
+    <eng:text>recommended / walking / every / the / doctor / morning</eng:text>
+    <eng:correctAnswer>the doctor recommended walking every morning</eng:correctAnswer>
+    <eng:explanation>"Recommend" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 70: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>They planned (A) going (B) camping (C) this weekend (D).</eng:text>
+    <eng:choices>planned (A), going (B), camping (C), this weekend (D)</eng:choices>
+    <eng:correctAnswer>going (B)</eng:correctAnswer>
+    <eng:explanation>"Plan" phải theo sau bởi to V: planned to go camping.</eng:explanation>
+  </item>
+
+    <item>
+    <title>Câu 71: Intend + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án chính xác nhất:</eng:instruction>
+    <eng:text>I intend ______ a new language this summer.</eng:text>
+    <eng:choices>learn,learning,to learn,to learning</eng:choices>
+    <eng:correctAnswer>to learn</eng:correctAnswer>
+    <eng:explanation>"Intend" luôn theo sau bởi "to V".</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 72: Discuss + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp vào chỗ trống:</eng:instruction>
+    <eng:text>They discussed [gap] a school club together.</eng:text>
+    <eng:correctAnswer>starting</eng:correctAnswer>
+    <eng:explanation>"Discuss" có thể theo sau bởi V-ing khi nói về một hoạt động.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 73: Matching - Động từ và cấu trúc</title>
+    <description>Ghép động từ với dạng theo sau.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép đúng:</eng:instruction>
+    <eng:pairs>intend|to V,discuss|V-ing,expect|to V,suggest|V-ing</eng:pairs>
+    <eng:explanation>
+      intend + to V
+      discuss + V-ing
+      expect + to V
+      suggest + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 74: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu hoàn chỉnh.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ để tạo thành câu đúng:</eng:instruction>
+    <eng:text>intends / to / study / medicine / she</eng:text>
+    <eng:correctAnswer>she intends to study medicine</eng:correctAnswer>
+    <eng:explanation>"Intend" theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 75: Tìm lỗi sai</title>
+    <description>Chọn phần chứa lỗi ngữ pháp.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm phần sai:</eng:instruction>
+    <eng:text>He admitted (A) to stealing (B) the money (C) yesterday (D).</eng:text>
+    <eng:choices>admitted (A), to stealing (B), the money (C), yesterday (D)</eng:choices>
+    <eng:correctAnswer>to stealing (B)</eng:correctAnswer>
+    <eng:explanation>"Admit" theo sau trực tiếp bởi V-ing: admitted stealing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 76: Decide + to V</title>
+    <description>Chọn đáp án đúng.</description>
+    <eng:type>multiple-choice</eng:type>
+    <eng:instruction>Chọn đáp án đúng nhất:</eng:instruction>
+    <eng:text>The family decided ______ by train instead of by plane.</eng:text>
+    <eng:choices>travel,traveling,to travel,to traveling</eng:choices>
+    <eng:correctAnswer>to travel</eng:correctAnswer>
+    <eng:explanation>"Decide" luôn theo sau bởi to V.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 77: Imagine + V-ing</title>
+    <description>Điền dạng đúng của động từ.</description>
+    <eng:type>fill-blank</eng:type>
+    <eng:instruction>Điền từ thích hợp:</eng:instruction>
+    <eng:text>I can't imagine [gap] without the Internet.</eng:text>
+    <eng:correctAnswer>living</eng:correctAnswer>
+    <eng:explanation>"Imagine" luôn theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 78: Matching - Động từ và dạng theo sau</title>
+    <description>Ghép đúng các cặp.</description>
+    <eng:type>matching</eng:type>
+    <eng:instruction>Ghép động từ với cấu trúc:</eng:instruction>
+    <eng:pairs>agree|to V,imagine|V-ing,learn|to V,avoid|V-ing</eng:pairs>
+    <eng:explanation>
+      agree + to V
+      imagine + V-ing
+      learn + to V
+      avoid + V-ing
+    </eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 79: Sắp xếp câu</title>
+    <description>Sắp xếp thành câu đúng.</description>
+    <eng:type>reorder</eng:type>
+    <eng:instruction>Nhấp chọn từ theo đúng thứ tự:</eng:instruction>
+    <eng:text>avoids / eating / Tom / fast / food</eng:text>
+    <eng:correctAnswer>Tom avoids eating fast food</eng:correctAnswer>
+    <eng:explanation>"Avoid" theo sau bởi V-ing.</eng:explanation>
+  </item>
+
+  <item>
+    <title>Câu 80: Tìm lỗi sai</title>
+    <description>Chọn phần sai trong câu.</description>
+    <eng:type>error-id</eng:type>
+    <eng:instruction>Tìm lỗi ngữ pháp:</eng:instruction>
+    <eng:text>She hopes (A) visiting (B) Australia (C) next year (D).</eng:text>
+    <eng:choices>hopes (A), visiting (B), Australia (C), next year (D)</eng:choices>
+    <eng:correctAnswer>visiting (B)</eng:correctAnswer>
+    <eng:explanation>"Hope" phải theo sau bởi to V: hopes to visit Australia.</eng:explanation>
+  </item>
+
+</channel>
+</rss>
